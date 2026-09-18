@@ -24,7 +24,7 @@ The first implementation intentionally uses **polling** instead of requiring a S
 ```bash
 pkg update
 pkg install python git
-cd Gamebot
+cd Gamebot/uzzapbot
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -59,6 +59,11 @@ Never commit `.env`, passwords, service-role/secret keys, or database connection
 !game start algebra2 [limit]
 !game start algebra3 [limit]
 !game start random [limit]
+!game start random1 [limit]
+!game start random2 [limit]
+!game start random3 [limit]
+!game start random4 [limit]
+!game start randomgta [limit]
 !game stop
 !game pause
 !game resume
