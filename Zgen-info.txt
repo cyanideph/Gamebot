@@ -1,0 +1,1898 @@
+1y,Q.Who left Krypton lived in Smallville then gained employment in Metropolis?,Superman
+2y,Q.What comic strip beagle is the pet dog of Charlie Brown?,Snoopy
+4y,Q.Where did the Lost Boys lived in the story of Peter Pan?,Never Never Land
+5y,Q.What is the alternative name for Netherlands?,Holland
+6y,Q.In which city is the novel Oliver Twist set?,London
+7y,Q.What is the DC stand for in Washington DC?,District of Columbia
+8y,Q.Which is the world's largest island?,Greenland
+9y,Q.What's the name of Postman Pat's wife?,Sarah
+10y,Q.What is the name of Mickey Mouse's pet dog?,Pluto
+11y,Q.What fruit is tradionally eaten with cream during Wimbledon Finals?,Strawberries
+12y,Q.What is the least powerful piece on a chessboard?,Pawn
+13y,Q.What's the blacksmith's workshop called?,Forge
+14y,Q.From which country Pope John Paul II was born?,Poland
+15y,Q.Who is the first woman to fly in space?,Valentina Tereshkova
+17y,Q.What is the name given to a teacher of Jewish Law?,Rabbi
+18y,Q.What turns Litmus paper to red?,Acid
+19y,Q.What flower shares its name with a part of the eyeball?,Iris
+20y,Q.Helenski is the capital of what scandivanian country?,Finland
+21y,Q.The Drink Perry was made from what fruit?,Pear
+22y,Q.What is the only metal that is liquid in room temperature?,Mercury
+23y,Q.What is the lowest two digit prime number?,Eleven
+24y,Q.What two countries make up Iberian Peninsula?,Spain and Portugal
+25y,Q.What kind of animals are the cartoon characters Chip 'n Dale?,Chipmunks
+26y,Q.What hard substance form the outermost part of a human tooth?,Enamel
+27y,Q.What is the national flower of Scotland?,Thistle
+28y,Q.Which american state is the nearest to Russia?,Alaska
+29y,Q.Flemish German and Walloon are the official languages of what european country?,Belgium
+30y,Q.A drug that counteracts a poison?,Antidote
+31y,Q.They were the ancient military commanders of Japan.?,Shoguns
+32y,Q.What is the nearest country to North Pole?,Greenland
+33y,Q.Which country has the longest coastline in Europe?,Norway
+34y,Q.Which shellfish produces pearls?,Oyster
+35y,Q.What is the alternative name for fruit sugar?,Fructose
+36y,Q.Which metal is also known as Wolfram?,Tungsten
+38y,Q.What do you call a word having the same sound or spelling as another?,Homonym
+39y,Q.Who wrote the poem Paradise Lost?,John Milton
+40y,Q.The song "Lady Marmalade" was featured on what 2001 film?,Moulin Rouge
+41y,Q.Which two elements make up sand?,Oxygen and Silicon
+42y,Q.Who played Maximus Decimus Meridus on the film Gladiator?,Russel Crowe
+43y,Q.What is the 5th book on the bible?,Deuteronomy
+44y,Q.By area what is the largest country in Africa?,Sudan
+45y,Q.West Side Story was based on what play?,Romeo and Juliet
+46y,Q.Brimstone is the old name for which element?,Sulphur
+47y,Q.Which part of the flower contains pollen?,Anther
+48y,Q.Which mythical creature was killed by Theseus in a labyrinth?,Minotaur
+49y,Q.How many white squares can be found on a chessboard?,32
+50y,Q.What material forms the shark's skeleton?,Cartillage
+51y,Q.What is the collective name for a group of crows?,Murder
+52y,Q.If an animal was describe as a verminous what does it feed on?,Worms
+54y,Q.In mythology what was the drink of the gods?,Nectar
+55y,Q.What is the title for a ruler in ancient Japan?,The Mikado
+56y,Q.Pewter is alloy of what two metals?,Tin and Lead
+57y,Q.What is a millionth of a meter called?,Micron
+58y,Q.Which element is the most toxic substance known to man?,Plutonium
+59y,Q.Which element has the lowest boiling point?,Helium
+60y,Q.What is the branch of mechanics that deals with the motion and action of forces?,Dynamics
+61y,Q.What name is given to the time of the year when night and day are of equal lengths?,Equinox
+62,On which river does Baghdad stands?,Tigris River
+63y,Q.Who was the roman emperor when Jesus Christ was crucified?,Tiberius
+64y,Q.Which are the only birds able to fly backwards?,Hummingbirds
+65y,Q.What is the highest order of angels in the celestial hiarchy?,Seraphim
+66y,Q.Which Russian town was the site of a nuclear disaster in April 1986?,Chernobyl
+67y,Q.Who is the roman goddess of rainbow?,Iris
+68y,Q.Who is the greek goddess of victory?,Nike
+69y,Q.Which gland in the body makes white blood cells?,Lymph glands
+70y,Q.Alphabetically what is the first book in the bible?,Acts
+71y,Q.These creatures were believed to be immune to any kind of diseases,Sharks
+72y,Q.Probably this condiment was supposed to be the oldest ingredient in history,Vinegar
+73y,Q.What is the moon of the minor planet Pluto?,Charon
+74y,Q.What is the 1st city established in Philippines?,Cebu
+75y,Q.What do you call a castrated rooster?,Capon
+76,What is a word that feeds on blood?,Leech
+77y,Q.Who is the youngest billionaire in the world?,Mark Zuckerberg
+1xx,Q.What do you call a group of antelope?,Herd
+2xx,Q.What do you call a group of ant?,Army
+3xx,Q.What do you call a group of ape?,Shrewdness
+4xx,Q.What do you call a group of baboons?,Troop
+5xx,Q.What do you call a group of bacteria?,Culture
+6xx,Q.What do you call a group of badger?,Cete
+7xx,Q.What do you call a group of bass?,Shoal
+8xx,Q.What do you call a group of bear?,Sleuth
+9xx,Q.What do you call a group of beaver?,Colony
+10xx,Q.What do you call a group of bee?,Swarm
+11xx,Q.What do you call a group of bird?,Flock
+12xx,Q.What do you call a group of boar?,Sounder
+13xx,Q.What do you call a group of buffalo?,Herd
+14xx,Q.What do you call a group of buck?,Brace
+15xx,Q.What do you call a group of catterpillar?,Army
+16xx,Q.What do you call a group of cat?,Clutter
+17xx,Q.What do you call a group of cattle?,Herd
+18xx,Q.What do you call a group of chicken?,Brood
+19xx,Q.What do you call a group of chicks?,Clutch
+20xx,Q.What do you call a group of clam?,Bed
+21xx,Q.What do you call a group of cobra?,Quiver
+22xx,Q.What do you call a group of colt?,Rag
+23xx,Q.What do you call a group of coyote?,Band
+24xx,Q.What do you call a group of crocodile?,Float
+25xx,Q.What do you call a group of crow?,Murder
+26xx,Q.What do you call a group of cub?,Litter
+27xx,Q.What do you call a group of curlew?,Herd
+28xx,Q.What do you call a group of cur?,Cowardice
+29xx,Q.What do you call a group of deer?,Herd
+30xx,Q.What do you call a group of dog?,Pack
+31xx,Q.What do you call a group of dove?,Dule
+32xx,Q.What do you call a group of elk?,Gang
+33xx,Q.What do you call a group of emus?,Mob
+34xx,Q.What do you call a group of ferret?,Business
+35xx,Q.What do you call a group of finches?,Charm
+36xx,Q.What do you call a group of fish?,School
+37xx,Q.What do you call a group of fly?,Swarm
+38xx,Q.What do you call a group of frog?,Army
+39xx,Q.What do you call a group of fox?,Skulk
+40xx,Q.What do you call a group of gnat?,Horde
+41xx,Q.What do you call a group of goat?,Trip
+42xx,Q.What do you call a group of gorilla?,Band
+43xx,Q.What do you call a group of greyhound?,Leash
+44xx,Q.What do you call a group of hare?,Husk
+45xx,Q.What do you call a group of heron?,Hedge
+46xx,Q.What do you call a group of jellyfish?,Smack
+47xx,Q.What do you call a group of lion?,Pride
+48xx,Q.What do you call a group of locust?,Plague
+49xx,Q.What do you call a group of magpie?,Tiding
+50xx,Q.What do you call a group of mallard?,Sord
+51xx,Q.What do you call a group of mare?,Stud
+52xx,Q.What do you call a group of marten?,Richness
+53xx,Q.What do you call a group of mole?,Labour
+54xx,Q.What do you call a group of monkey?,Troop
+55xx,Q.What do you call a group of owl?,Parliament
+56xx,Q.What do you call a group of oyster?,Bed
+57xx,Q.What do you call a group of parrot?,Company
+58xx,Q.What do you call a group of partridge?,Covey
+59xx,Q.What do you call a group of peacock?,Muster
+60xx,Q.What do you call a group of leopard?,Leap
+61xx,Q.What do you call a group of pig?,Litter
+62xx,Q.What do you call a group of plover?,Congregation
+63xx,Q.What do you call a group of pony?,String
+64xx,Q.What do you call a group of porpoise?,Pod
+65xx,Q.What do you call a group of rabbit?,Nest
+66xx,Q.What do you call a group of rattlesnake?,Rhumba
+67xx,Q.What do you call a group of raven?,Unkindness
+68xx,Q.What do you call a group of roebuck?,Bevy
+69xx,Q.What do you call a group of sheep?,Flock
+70xx,Q.What do you call a group of snake?,Nest
+71xx,Q.What do you call a group of sparrow?,Host
+72xx,Q.What do you call a group of squirrel?,Dray
+73xx,Q.What do you call a group of starling?,Murmuration
+74xx,Q.What do you call a group of stork?,Muster
+75xx,Q.What do you call a group of swallow?,Flight
+76xx,Q.What do you call a group of swan?,Wedge
+77xx,Q.What do you call a group of swift?,Flock
+78xx,Q.What do you call a group of swine?,Sounder
+79xx,Q.What do you call a group of teal?,Spring
+80xx,Q.What do you call a group of toad?,Knot
+81xx,Q.What do you call a group of trout?,Hover
+82xx,Q.What do you call a group of turkey?,Rafter
+83xx,Q.What do you call a group of turtle?,Bale
+84xx,Q.What do you call a group of walrus?,Pod
+85xx,Q.What do you call a group of viper?,Nest
+86xx,Q.What do you call a group of wolf?,Pack
+87xx,Q.What do you call a group of woodcock?,Fall
+88xx,Q.What do you call a group of woodpecker?,Descent
+89xx,Q.What do you call a group of whale?,School
+90xx,Q.What do you call a group of snipe?,Wisp
+1x,Q.What numeric term describes perfect eyesight and a form of cricket?,20/20
+2x,Q.How many dots are there in total on a pair of dice?,42
+3x,Q.In a game of chess what is the only piece able to jump over other pieces?,Knight
+4x,Q.What is the square root of 169?,13
+5x,Q.When spoken by a police officer what do the letters RTA stand for?,Road Traffic Accident
+6x,Q.Which sign of the zodiac is represented by the Ram?,Aries
+7x,Q.In Greek legend who turned everything he touched into gold?,Midas
+8x,Q.Gala Jonagold and Pink Lady are varieties of which fruit?,Apple
+9x,Q.What is sake made from?,Rice
+10x,Q.Affenpinscher Keeshond and Leonberger are all types of what?,Dog
+11x,Q.What is the only anagram of the word `english`?,Shingle
+12x,Q.What is sciophobia the fear of?,Shadows
+13x,Q.What was Barack Obama`s father`s first name?,Barack
+14x,Q.How many stones did David take for his fight with Goliath? One Five or Fifteen?,Five
+15x,Q.What type of material is produced in a ginnery?,Cotton
+16x,Q.Which fruit contains the most calories?,Avocado
+17x,Q.What is the dot on the letter `i` called?,Tittle
+18x,Q.Which well known brand`s secret ingredient is codenamed x7?,Coke
+19x,Q.How many years are celebrated in a demisesquicentennial?,75
+20x,Q.By what name is acetylsalicylic acid more commonly known?,Aspirin
+21x,Q.In a game of chess which piece is worth more - a rook or a knight?,Rook
+22x,Q.Chronophobia is the fear of what?,Time
+23x,Q.Olympus Mons is the largest volcano known to man. Where is it?,Mars
+24x,Q.Phasmaphobia is the fear of what?,Ghosts
+25x,Q.What is the name of the currency used in Poland?,Zloty
+26x,Q.What colour would you associate with the traditional gemstone for September?,Blue
+27x,Q.Which american state has a name that ends in three vowels?,Hawaii
+28x,Q.What is oenophobia the fear of? Beer Wine or Water?,Wine
+29x,Q.February is the shortest month in the year but which is the longest?,October
+30x,Q.What is metathesiophobia the fear of?,Changes
+31x,Q.Jupiter is named after Zeus but which Greek god was Mercury named after?,Hermes
+32x,Q.If you were a `chalkie` in Australia what would your profession be?,Teaching
+33x,Q.In the Chinese Zodiac which sign comes between the rat and the tiger?,The Ox
+34x,Q.What is the only word in the English language that ends in the letters "mt",Dreamt
+35x,Q.What colour was Coca-Cola originally?,Green
+36x,Q.A philargyrist is someone who loves what?,Money
+37x,Q.In which decade did the population of the world reach 4 billion?,1970
+38x,Q.What is pogonology the study of?,Beards
+39x,Q.What do the initials HB on a pencil stand for?,Hard Black
+40x,Q.What is the correct term for the people commonly known as `Eskimos`?,Inuit
+41x,Q.Xyrophobia is the fear of what? Razors Soap or Sticky Substances?,Razors
+42x,Q.What starts with `T` ends with `T` and has `T` in it?,Teapot
+43x,Q.Which European country is the largest consumer of beer per head?,Germany
+44x,Q.If Superman works for the Daily Planet who works for the Daily Bugle?,Spiderman
+45x,Q.In which country did the dish chop-suey originate?,America
+46x,Q.What is the world`s largest lake?,The Caspian Sea
+47x,Q.The currency of Costa Rica shares its name with which punctuation mark?,Colon
+48x,Q.Which two words is the company name Intel abbreviated from?,Integrated tecnology
+49x,Q.What is Anginaphobia a fear of? Thickness Narrowness or Darkness?,Narrowness
+50x,Q.What does FTP stand for in the world of computers and the internet?,File Transfer Protocol
+51x,Q.What does RAM stand for in computer terminology?,Random Access Memory
+52x,Q.In computer networking what does LAN stand for?,Local Area Network
+53x,Q.What does USB stand for in computer hardware?,Universal Serial Bus
+54x,Q.What is the top colour on a rainbow?,Red
+55x,Q.Which chess piece always remains on the same coloured squares?,Bishop
+56x,Q.The month of January is named after which Roman God?,Janus
+57x,Q.By what name is Babara Millicent Roberts better known?,Barbie
+58x,Q.How many yards are there in a mile?,1760
+59x,Q.Acrophobia is the fear of what?,Heights
+60x,Q.In which religion is the god Brahma found?,Hinduism
+61x,Q.If you were born on Christmas day which star sign would you be?,Capricorn
+62x,Q.How many squares are there along one side of a Scrabble Board?,15
+63x,Q.What is the first prime number greater than 50?,53
+64x,Q.How many tiles are used in the game Mah-jong?,144
+65x,Q.What was Minerva the Roman goddess of? Love Beauty or Wisdom?,Wisdom
+66x,Q.Which game was invented in the 1930s and originally called Lexiko?,Scrabble
+67x,Q.What would someone who was involved in pyrotechnics make?,Fireworks
+68x,Q.How many squares are there on a Scrabble board?,225
+69x,Q.What is the second-highest hand in a standard game of poker?,Straight Flush
+70x,Q.Which sign of the zodiac is represented by the Fishes?,Pisces
+71x,Q.What is the singular of the word `graffiti`?,Graffito
+73x,Q.What is the only country to have a flag which consists of only one colour?,Libya
+74x,Q.If you were born on Halloween what star sign would you be?,Scorpio
+75x,Q.What is the birthstone for the month of February?,Amethyst
+76x,Q.How many American cents make up a dime?,10
+77x,Q.From which country does the game of mah-jong originate?,China
+78x,Q.Which breed of dog has breeds called Welsh Scottish and Irish?,Terrier
+79x,Q.Who was the Roman God of War?,Mars
+80x,Q.How many days were there in February in the year 2000?,29
+81x,Q.How many pieces are there in a standard set of dominoes?,28
+82x,Q.What animal is used to represent the star sign Leo?,Lion
+83x,Q.Used in a variety of games what are sometimes known as `devil`s bones`?,Dice
+84x,Q.The Italian word for `scratched drawings` is used commonly in English. What is it?,Graffiti
+85x,Q.A Griffin has the body of what animal?,Lion
+86x,Q.Heliophobia is the fear of what?,Sun
+87x,Q.What colour is a custard apple?,Green
+88x,Q.What is ornithophobia the fear of?,Birds
+89x,Q.What is the third letter of the Greek alphabet?,Gamma
+90x,Q.Diamond is the birthstone for which month?,April
+91x,Q.What does a numismatist collect?,Coins
+92x,Q.What popular drink was originally called `Brad`s Drink`?,Pepsi
+93x,Q.What is the Spanish name for a Bullfighter?,Matador
+94x,Q.What is photophobia a fear of?,Light
+95x,Q.In Greek mythology what was Medusa`s hair made of?,Snakes
+96x,Q.What is the first letter of the Greek alphabet?,Alpha
+97x,Q.Who was the Greek God of love?,Eros
+98x,Q.What would an antiquarian collect?,Antiques
+99x,Q.What does a chandler make?,Candles
+100x,Q.What is Hypnophobia the fear of?,Sleep
+101x,Q.Who was known as the Maid of Orleans?,Joan of Arc
+102x,Q.How many wives did Henry VIII have?,6
+103x,Q.In which month of 1929 did the St Valentines Day massacre take place?,February
+104x,Q.What process involves treating rubber with sulphur to harden it?,Vulcanizing
+105x,Q.What scale of zero to 14 is used to measure acidity or alkalinity?,pH scale
+106x,Q.What O-word describes oxygen with molecules that have three atoms instead of two?,Ozone
+107x,Q.What unit of electrical power is equal to one joule per second?,Watt
+108x,Q.What planet is closest in size to our moon?,Mercury
+109x,Q.What's the common name for a cubic decimeter?,Liter
+110x,Q.What measure of energy comes from the Latin word meaning "heat"?,Calorie
+111x,Q.What's removed from water in the process of desalination?,Salt
+112x,Q.What species Amazonian electric variety packs a 650 volt wallop?,Electric Eel
+113x,Q.What C word defines a substance that speeds a chemical reaction without being consumed?,Catalyst
+114x,Q.What's the base unit of mass in the metric system?,Kilogram
+115x,Q.What cooking fuel is produced by heating wood without oxygen?,Charcoal
+116x,Q.What's the only metal that's not a solid at room temperature?,Mercury
+117x,Q.What unit of measure do you multiply by .39 to convert it to inches?,Centimeters
+118x,Q.What method of underwater detection is short for "sound navigation and ranging"?,Sonar
+119x,Q.What hazardous substance is euphemistically referred to as "mineral fiber"?,Asbestos
+120x,Q.What color does litmus turn when dipped into acid?,Pink
+121x,Q.What process involves heating an ore to obtain a metal?,Smelting
+122x,Q.What's the U.S. equivalent of 0.45 kilograms?,One pound
+123x,Q.What's defined as the distance between a lens and its focal point?,Focal length
+124x,Q.What energy unit is defined as the heat required to raise one kilogram of water by one degree Celsius?,One Calorie
+125x,Q.What founding father was knocked unconscious while attempting to electrocute a turkey?,Benjamin Franklin
+126x,Q.What continent is subjected to the world's largest ozone hole?,Antarctica
+127x,Q.What sea creature can have an eye measuring 16 inches across the largest in the animal kingdom?,Squid
+128x,Q.What explosive cosmic event was seen with the naked eye in 1987 for the first time in 383 years?,Supernova
+129x,Q.How many of the nine planets have moons?,7
+130x,Q.What type of trees yield the resin used to produce turpentine?,Pine tree
+131x,Q.What's the most malleable metal?,Gold
+132x,Q.What colour is the bullseye on a standard dartboard?,Red
+133x,Q.How many boxes are used in the UK version of Deal Or No Deal?,22
+134x,Q.Who is the author of the `Harry Potter` books?,J K Rowling
+135x,Q.What has 336 dimples,golf ball
+136x,Q.What has a 21 inch tongue,giraffe
+138x,Q.What has a rectangular pupil,goat
+139x,Q.What has a type of hair on their eyes,honeybees
+140x,Q.What has albumen and a yolk,egg
+141x,Q.What has approximately 1/4 pound of salt in every gallon,seawater
+142x,Q.What has no reflection no shadow and can't stand the smell of garlic,vampires
+143x,Q.What has u.s. patent no 174465,telephone
+144x,Q.What has yale college been serving for more than 100 years,apple pie
+145x,Q.What have over 80% of boxers suffered,brain damage
+147x,Q.What herbivore sleeps one hour a night,antelope
+148x,Q.What hobby uses the term "cast on",knitting
+149x,Q.What Hollywood starlet's pinup graced the most GI barracks in World War II,Betty Grable
+150x,Q.What Indian word means "big village",Canada
+151x,Q.What indiana city did steve martin once call 'nowhere u.s.a',terre haute
+152x,Q.What industry is symbolized by the term "madison avenue",advertising
+153x,Q.What infamous bank robber was nicknamed "willie the actor",willie sutton
+154x,Q.What insect depends on sight to locate mates,firefly
+155x,Q.What insects do isopterpophobics fear,Termites
+156x,Q.What inside corn makes it pop,water
+157x,Q.What instrument are you playing when you perform a rim shot,drums
+158x,Q.What instrument do doctors usually have around their necks,stethoscope
+159x,Q.What instrument does an organ grinder play,hurdy gurdy
+160x,Q.What instrument does kenny g play,saxophone
+161x,Q.What instrument does phil lynott of thin lizzy play,guitar
+162x,Q.What instrument does woody allen play,clarinet
+163x,Q.What instrument in an automobile measures distance travelled,odometer
+165x,Q.What international award was worth 365 dollars mineral value in 1988,olympic
+166x,Q.What is 'anacreon in heaven',old english drinking song
+181x,Q.What is 'pollo' on a menu in rome,chicken
+182x,Q.What is 'shogun' in english,military governer
+192x,Q.What is a 'hotel-dieu' in france,hospital
+193x,Q.What is a 'kartoffel' in germany,potato
+199x,Q.What is a 300th anniversary called,tercentenary
+207x,Q.What is a calm ocean region near the equator,doldrums
+209x,Q.What is a cancer causing substance,carcinogen
+216x,Q.What is a chihuahua named after,mexican state
+233x,Q.What is a fifty year anniversary,diamond anniversary
+374x,Q.What is a group of woodpeckers,descent
+376x,Q.What is a hot spring that shoots steam into the air?,geyser
+377x,Q.What is a king of egypt?,pharaoh
+378x,Q.What is a kookaburra,bird
+379x,Q.What is a langouste,crawfish
+380x,Q.What is a line of columns supporting a horizontal or arched superstructure,colonnade
+381x,Q.What is a long wire wound in a close-packed helix and carrying a current,solenoid
+382x,Q.What is a loosely woven fabric generally used for clothing called,flannel
+383x,Q.What is a loss of memory,amnesia
+384x,Q.What is a low layer of cloud called,nimbostratus
+385x,Q.What is a male cat?,tom
+386x,Q.What is a male deer,buck
+387x,Q.What is a male sheep?,ram
+388x,Q.What is a male swan called?,cob
+389x,Q.What is a marsupium?,pouch
+390x,Q.What is a mexican afternoon nap?,siesta
+391x,Q.What is a mexican avocado dip?,guacamole
+392x,Q.What is a military governer in japanese?,shogun
+394x,Q.What is a myocardial infarct?,heart attack
+395x,Q.What is a natterjack?,toad
+396x,Q.What is a non-cancerous tumour?,benign
+397x,Q.What is a one-humped camel called?,dromedary
+398x,Q.What is a peanut if it is not a pea or a nut?,legume
+399x,Q.What is a period of play in polo?,chukka
+400x,Q.What is a person in his eighties?,octogenarian
+401x,Q.What is a person who has made a pilgimage to mecca?,hajji
+402x,Q.What is a person who maliciously starts fires?,arsonist
+403x,Q.What is a person with a strong desire to steal?,kleptomaniac
+404x,Q.What is a pharaoh?,king of egypt
+405x,Q.What is a poker hand consisting of three of a kind and a pair?,full house
+406x,Q.What is a portuguese man o' war?,jellyfish
+407x,Q.What is a pregnant goldfish?,twit
+408x,Q.What is a pugilist?,boxer
+409x,Q.What is a pyrotechnic display?,fireworks
+410x,Q.What is a receptacle for holy water?,font
+411x,Q.What is a red blood cell?,erythrocyte
+412x,Q.What is a redwood tree?,giant sequoia
+413x,Q.What is a regurgitation of acid from the stomach into the aesophagus?,heartburn
+414x,Q.What is a resident of liverpool?,liverpudlian
+415x,Q.What is a resident of manchester?,mancunian
+416x,Q.What is a resident of moscow?,muscovite
+417x,Q.What is a rower who competes in an individual event?,sculler
+418x,Q.What is a sardine?,young herring
+419x,Q.What is a scimitar?,sword
+420x,Q.What is a shallow dish with a cover that is used for science specimens,petri
+421x,Q.What is a siesta?,mexican afternoon nap
+422x,Q.What is a sirocco?,wind
+423x,Q.What is a sixty year anniversary?,emerald anniversary
+424x,Q.What is a sleepwalker,somnambulist
+425x,Q.What is a somnambulist?,sleepwalker
+426x,Q.What is a sorcerer who deals in black magic?,necromancer
+427x,Q.What is a south african coin containing 1 troy ounce of gold?,krugerrand
+428x,Q.What is a spat?,baby oyster
+429x,Q.What is a standard 7'8" x 3'2" x 6',grave
+430x,Q.What is a sun-dried grape?,raisin
+431x,Q.What is a tennis shot hit in the air when close to the net?,volley
+432x,Q.What is a tightrope walker?,funambulist
+433x,Q.What is a toboggan course?,cresta run
+434x,Q.What is a triangle whose sides are all of different lengths,scalene
+435x,Q.What is a triangle with three equal sides called?,equilateral
+436x,Q.What is a triangle with two equal sides called?,isosceles
+437x,Q.What is a turkey's furcula commonly known as?,wishbone
+438x,Q.What is a turkey's wishbone?,furcula
+439x,Q.What is a twenty five year anniversary?,silver anniversary
+440x,Q.What is a two-bit moon?,first quarter
+441x,Q.What is a two-humped dromedary?,camel
+442x,Q.What is a type of west indian popular music?,reggae
+445x,Q.What is a war between parties of the same country?,civil war
+446x,Q.What is a water taxi?,gondola
+449x,Q.What is a wind with a speed of 74 miles or more?,hurricane
+450x,Q.What is a woolly bear,caterpillar
+451x,Q.What is a word formed from the initials of other words,acronym
+452x,Q.What is a young otter called,whelp
+453x,Q.What is a young whale,calf
+454x,Q.What is a zeppelin?,dirigible
+456x,Q.What is acute hasopharyngitis?,cold
+458x,Q.What is all hallow's eve?,halloween
+459x,Q.What is an 'aceituna' in english?,olive
+462x,Q.What is an angle greater than 180 degrees and less than 360 degrees?,reflex
+463x,Q.What is an angle greater than 90 degrees?,obtuse
+464x,Q.What is an angle less than 90 degrees?,acute
+466x,Q.What is an australian bandit also known as?,bushranger
+467x,Q.What is an eight sided polygon called?,octagon
+468x,Q.What is an elver?,baby eel
+470x,Q.What is an enlargement of the thyroid?,goitre
+471x,Q.What is an erythrocyte?,red blood cell
+472x,Q.What is an ethnologue?,catalogue of languages
+473x,Q.What is an example of a totally untraceable poison?,acetylcholine
+474x,Q.What is an extract of fermented and dried orchid pods?,vanilla
+476x,Q.What is an integer that is greater than 1 and divisible only by itself and 1?,prime number
+477x,Q.What is an object worn as a charm?,amulet
+481x,Q.What is anaemia?,iron deficiency
+484x,Q.What is another name for crude oil?,black gold
+485x,Q.What is another name for the carambula?,star fruit
+486x,Q.What is another name for the card game 'blackjack'?,twenty one
+487x,Q.What is another name for the card game 'twenty one'?,blackjack
+488x,Q.What is another name for the coyote?,prairie wolf
+489x,Q.What is another name for the prairie wolf?,coyote
+490x,Q.What is another name for the star fruit?,carambula
+494x,Q.What is attribution of divine honours on persons (living or dead) called?,apotheosis
+499x,Q.What is black gold?,crude oil
+501x,Q.What is borscht?,soup
+502x,Q.What is bovine spongiform encephalopathy?,mad cow disease
+504x,Q.What is brimstone?,sulphur
+508x,Q.What is china's sorrow?,yellow river
+513x,Q.What is cuneiform?,writing system
+514x,Q.What is dendrochronology?,tree ring dating
+518x,Q.What is divination by means of lines and figures drawn in the earth?,geomancy
+523x,Q.What is elton john's real name?,reginald dwight
+531x,Q.What is growing plants in liquids rather than soil?,hydroponics
+534x,Q.What is histology?,study of tissues
+537x,Q.What is improved if you sleep on your right side?,digestion
+539x,Q.What is installed in the world's deepest mine in carletonville?,refrigeration
+542x,Q.What is it when five or fewer water molecules bond tightly together in a ring?,cluster
+548x,Q.What is known as 'the father of waters'?,mississippi river
+552x,Q.What is made from the bark of the cinchona tree?,quinine
+553x,Q.What is made of fermented grape juice?,wine
+554x,Q.What is made up of the duodenum jejenum and ileum?,small intestine
+555x,Q.What is made with a mix of charcoal saltpetre and sulphur?,gunpowder
+559x,Q.What is measured by a geiger counter?,radioactivity
+560x,Q.What is mickey mouse's dog's name?,pluto
+561x,Q.What is missing from a navel orange?,seeds
+562x,Q.What is missing from the 'venus de milo'?,arms
+563x,Q.What is mixed with kahlua to make a 'black russian'?,vodka
+564x,Q.What is more addictive than all illicit drugs except crack and heroin combined?,cigarettes
+565x,Q.What is more effective than caffeine for waking up in the morning?,apples
+567x,Q.What is new york city's 'street of forgotten men'?,bowery
+569x,Q.What is on the banks of the river jumna?,taj mahal
+570x,Q.What is opposition to the jewish race called?,anti-semitism
+571x,Q.What is ornamental work in silver or gold thread?,filigree
+572x,Q.What is paedology?,study of soil
+573x,Q.What is penicillin made of?,cheese mould
+574x,Q.What is podobromhidrosis?,smelly feet
+575x,Q.What is Pogonophobia the fear of?,Beards
+576x,Q.What is pure china clay?,kaolin
+577x,Q.What is quicksilver better known as?,mercury
+579x,Q.What is recorded with two beams of light?,holograph
+580x,Q.What is removed with an orchidectomy?,testicle
+581x,Q.What is salicyclic acid better known as?,aspirin
+588x,Q.What is s[000 ex on the internet called?,cybersex
+590x,Q.What is sometimes added to softdrinks to make them sweeter?,coal
+591x,Q.What is spain's biggest source of income?,tourism
+592x,Q.What is sushi?,raw fish
+594x,Q.What is switzerland's official neutral name?,helvetic confederation
+595x,Q.What is tattooed on glen campbell's arm?,dagger
+597x,Q.What is the 'bishop's stone'?,amethyst
+600x,Q.What is the 'pound' or 'number' symbol on the telephone?,octothorpe
+603x,Q.What is the 100 year old safe in washington dc?,centennial safe
+604x,Q.What is the 13.5 ton chime on london's tower clock?,big ben
+607x,Q.What is the act of founding settlements abroad?,colonisation
+609x,Q.What is the ancient religious language of india?,sanskrit
+610x,Q.What is the applied science to the study of society?,sociology
+613x,Q.What is the art of fighting with gloves on the hand?,boxing
+614x,Q.What is the art of tracing designs and making impressions of them?,lithography
+615x,Q.What is the astrological sign for death?,pluto
+616x,Q.What is the atomic mass of bromine?,79.9
+630x,Q.What is the banking system in the u.s known as?,federal reserve system
+631x,Q.What is the base twenty numbering system?,vigesimal
+632x,Q.What is the basic flavouring of kahlua?,coffee
+634x,Q.What is the biggest criterion for prospective astronauts?,eyesight
+635x,Q.What is the billionth digit of 'pi'?,nine
+636x,Q.What is the binot-simon scale used to measure?,intelligence
+638x,Q.What is the birthstone for august?,peridot
+639x,Q.What is the birthstone for may?,emerald
+640x,Q.What is the birthstone for september?,sapphire
+641x,Q.What is the board game where it pays to know your trivia?,trivial pursuit
+642x,Q.What is the bone at the end of the spine?,coccyx
+643x,Q.What is the boy scout motto?,be prepared
+644x,Q.What is the branch of medicine dealing with curing by operative procedures?,surgery
+645x,Q.What is the brightest asteroid?,vesta
+647x,Q.What is the call name for Soviet mission control?,zarya
+648x,Q.What is the capital of albania?,tirana
+649x,Q.What is the capital of argentina?,buenos aires
+650x,Q.What is the capital of arizona?,phoenix
+651x,Q.What is the capital of australia?,canberra
+652x,Q.What is the capital of bangladesh?,dhaka
+653x,Q.What is the capital of barbados?,bridgetown
+654x,Q.What is the capital of botswana?,gaborone
+655x,Q.What is the capital of brazil?,brazilia
+656x,Q.What is the capital of burkino faso?,ouagadougou
+657x,Q.What is the capital of burma?,rangoon
+658x,Q.What is the capital of california?,sacramento
+659x,Q.What is the capital of cambodia?,phnom-penh
+660x,Q.What is the capital of cameroon?,yaounde
+661x,Q.What is the capital of chile?,santiago
+662x,Q.What is the capital of colombia?,bogota
+663x,Q.What is the capital of colorado?,denver
+664x,Q.What is the capital of congo?,brazzaville
+665x,Q.What is the capital of connecticut?,hartford
+666x,Q.What is the capital of costa rica?,san jose
+667x,Q.What is the capital of cuba?,havana
+668x,Q.What is the capital of cyprus?,nicosia
+669x,Q.What is the capital of delaware?,dover
+670x,Q.What is the capital of denmark?,copenhagen
+671x,Q.What is the capital of djibouti?,djibouti
+672x,Q.What is the capital of equatorial guinea?,malabo
+673x,Q.What is the capital of gabon?,libreville
+674x,Q.What is the capital of gambia?,banjul
+675x,Q.What is the capital of ghana?,accra
+676x,Q.What is the capital of greece?,athens
+677x,Q.What is the capital of guatemala?,guatemala
+678x,Q.What is the capital of guinea-bissau?,bissau
+679x,Q.What is the capital of honduras?,tegucigalpla
+680x,Q.What is the capital of hong kong?,victoria
+681x,Q.What is the capital of hungary?,budapest
+682x,Q.What is the capital of india?,new delhi
+683x,Q.What is the capital of indiana?,indianapolis
+684x,Q.What is the capital of iraq?,baghdad
+685x,Q.What is the capital of ireland?,dublin
+686x,Q.What is the capital of italy?,rome
+687x,Q.What is the capital of jamaica?,kingston
+688x,Q.What is the capital of japan?,tokyo
+689x,Q.What is the capital of kansas?,topeka
+690x,Q.What is the capital of kuwait?,kuwait
+691x,Q.What is the capital of lebanon?,beirut
+692x,Q.What is the capital of liechtenstein?,vaduz
+693x,Q.What is the capital of luxembourg?,luxembourg
+694x,Q.What is the capital of malawi?,lilongwe
+695x,Q.What is the capital of malaysia?,kuala lumpur
+696x,Q.What is the capital of mali?,bamako
+697x,Q.What is the capital of malta?,valletta
+698x,Q.What is the capital of mauritius?,port louis
+699x,Q.What is the capital of mexico?,mexico city
+700x,Q.What is the capital of michigan?,lansing
+701x,Q.What is the capital of missouri?,jefferson city
+702x,Q.What is the capital of mongolia?,ulan bator
+703x,Q.What is the capital of montana?,helena
+704x,Q.What is the capital of morocco?,rabat
+705x,Q.What is the capital of morocco?,rabat
+706x,Q.What is the capital of mozambique?,maputo
+707x,Q.What is the capital of namibia?,windhoek
+708x,Q.What is the capital of nepal?,katmandu
+709x,Q.What is the capital of nevada?,carson city
+710x,Q.What is the capital of new york?,albany
+711x,Q.What is the capital of nicaragua?,managua
+712x,Q.What is the capital of nigeria?,lagos
+713x,Q.What is the capital of north carolina?,raleigh
+714x,Q.What is the capital of north dakota?,bismarck
+715x,Q.What is the capital of north vietnam?,hanoi
+716x,Q.What is the capital of norway?,oslo
+717x,Q.What is the capital of nova scotia?,halifax
+718x,Q.What is the capital of panama?,panama city
+719x,Q.What is the capital of papua new guine?,|port moresby
+720x,Q.What is the capital of pennsylvania?,harrisberg
+721x,Q.What is the capital of russia?,moscow
+722x,Q.What is the capital of rwanda?,kigali
+723x,Q.What is the capital of saudi arabia?,riyadh
+724x,Q.What is the capital of senegal?,dakar
+725x,Q.What is the capital of sierra leone?,freetown
+726x,Q.What is the capital of singapore?,singapore
+727x,Q.What is the capital of south vietnam?,saigon
+728x,Q.What is the capital of sudan?,khartoum
+729x,Q.What is the capital of swaziland?,mbabane
+730x,Q.What is the capital of sweden?,stockholm
+731x,Q.What is the capital of Switzerland?,Bern
+732x,Q.What is the capital of syria?,damascus
+733x,Q.What is the capital of tahiti?,papeete
+734x,Q.What is the capital of tennessee?,nashville
+735x,Q.What is the capital of texas?,austin
+736x,Q.What is the capital of thailand?,bangkok
+737x,Q.What is the capital of the dominican republic?,santo domingo
+738x,Q.What is the capital of the seychelles?,victoria
+739x,Q.What is the capital of togo?,lome
+740x,Q.What is the capital of tunisia?,tunis
+741x,Q.What is the capital of turkey?,ankara
+742x,Q.What is the capital of uruguay?,montevideo
+743x,Q.What is the capital of utah?,salt lake city
+744x,Q.What is the capital of virginia?,richmond
+745x,Q.What is the capital of west virginia?,charleston
+746x,Q.What is the capital of wyoming?,cheyenne
+747x,Q.What is the capital of zaire?,kinshasa
+748x,Q.What is the chemical symbol for gold?,au
+749x,Q.What is the chronicle of the nazi siege of leningrad?,The 900 Days
+750x,Q.What is the circle of the earth at 0 degrees latitude?,equator
+752x,Q.What is the closest planet to the sun?,Mercury
+754x,Q.What is the combination of fine clay and sand for making pottery?,Terracotta
+756x,Q.What is the common name for many species of burrowing mollusks?,clam
+757x,Q.What is the compulsive desire to give gifts?,doromania
+758x,Q.What is the computer acronym for "picture element"?,pixel
+760x,Q.What is the condensed water vapour in the sky left behind jets?,contrail
+761x,Q.What is the condition resulting from prolongued muscular or mental activity?,fatigue
+763x,Q.What is the correct name for an animal's pouch?,marsupium
+766x,Q.What is the creature that is half eagle half lion?,griffin
+769x,Q.What is the cure of disease by faith in divine power?,faith healing
+770x,Q.What is the currency of ecuador?,sucre
+775x,Q.What is the current vat rate in south africa?,14%
+776x,Q.What is the current vat rate in the uk?,17.5%
+777x,Q.What is the decrease in size of a tissue or organ due to degeneration?,atrophy
+778x,Q.What is the deepest land gorge?,grand canyon
+779x,Q.What is the deleterious gas in the air which is exhaled by humans called?,carbon dioxide
+780x,Q.What is the derivative of sin x?,cos x
+781x,Q.What is the discharge of a liquid from a surface usually pores or incisions?,exudation
+784x,Q.What is the earth's layer just below the crust?,mantle
+785x,Q.What is the earth's outer layer of surface soil or crust?,lithosphere
+786x,Q.What is the effect of the earth's rotation on the wind called?,coriolis
+795x,Q.What is the escape velocity from the earth's gravity (mph)?,25000 mph
+796x,Q.What is the fastest bird?,spine-tailed swift
+797x,Q.What is the fastest land animal?,cheetah
+799x,Q.What is the fear of naked bodies?,gymnophobia
+804x,Q.What is the fifth largest country in the world?,brazil
+811x,Q.What is the first sign of the zodiac symbolized by the ram?,Aries
+812x,Q.What is the first thing that 97% of people will write when offered a new pen?,their name
+813x,Q.What is the force that brings moving bodies to a halt?,friction
+820x,Q.What is the full moon nearest the autumnal equinox?,harvest moon
+822x,Q.What is the gardening term for a weed?,ruderal
+823x,Q.What is the geographic centre of the u.s?,south dakota
+825x,Q.What is the glass capital of the world?,toledo
+826x,Q.What is the greek word for the biblical book of revelation?,apocalypse
+827x,Q.What is the hardest naturally occuring substance?,diamond
+828x,Q.What is the heart rate of the blue whale?,nine beats per minute
+829x,Q.What is the heaviest element?,uranium
+830x,Q.What is the heaviest snake?,anaconda
+831x,Q.What is the height travelled by the world's longest escalator?,sixty metres
+832x,Q.What is the highest lake in the world?,lake titicaca
+833x,Q.What is the highest mountain in canada?,logan
+836x,Q.What is the holiest day in the Jewish calendar?,Yom Kippur
+837x,Q.What is the holiest day in the jewish calendar?,yom kippur
+838x,Q.What is the honeymoon capital of the world?,Niagara falls
+839x,Q.What is the integral of the magnetic field with respect to the area?,magnetic
+840x,Q.What is the international cry for help?,mayday
+843x,Q.What is the japanese currency?,yen
+846x,Q.What is the largest cell in a human body?,ovum
+849x,Q.What is the largest city in china?,shanghai
+856x,Q.What is the largest gem-quality diamond discovered?,cullinan diamond
+857x,Q.What is the largest gland in the human body?,liver
+859x,Q.What is the largest inhabited castle?,Windsor castle
+867x,Q.What is the largest ocean?,pacific ocean
+870x,Q.What is the largest volcano in the solar system?,olympus mons
+873x,Q.What is the larynx?,voice box
+879x,Q.What is the legal term for a formal agreement enforceable by law?,contract
+884x,Q.What is the longest muscle in the human body?,Sartorius
+887x,Q.What is the longest river in the world?,Nile
+889x,Q.What is the longest running prime time cartoon show?,The Simpsons
+892x,Q.What is the longest venomous snake?,king cobra
+902x,Q.What is the medical term for an eyeball shaped like a rugby ball?,astigmatism
+903x,Q.What is the medical term for short-sightedness?,myopia
+905x,Q.What is the metal part of a lamp surrounding the bulb and supporting the shade?,harp
+912x,Q.What is the most air polluted city in the united states?,los angeles
+913x,Q.What is the most common atom?,hydrogen
+914x,Q.What is the most common blood type in humans?,Type O
+920x,Q.What is the most essential tool in astronomy?,telescope
+921x,Q.What is the most extensively grown and eaten food?,wheat
+923x,Q.What is the most filmed story?,dracula
+924x,Q.What is the most frequently used word in the english language?,THE
+926x,Q.What is the most mountainous country in europe?,Switzerland
+938x,Q.a Test|What is the name for the kind of writing used by early Egyptians?,Hieroglyphics
+939x,Q.What is the name of a device used to stem the flow of blood?,tourniquet
+945x,Q.What is the name of the belief in the existence of many gods or divine beings?,polytheism
+952x,Q.What is the name of the winged horse in greek mythology?,pegasus
+953x,Q.What is the national bird of america?,bald-headed eagle
+959x,Q.What is the naval equivalent of an army major?,lieutenant commander
+972x,Q.What is the offspring of a female horse and a male donkey?,mule
+973x,Q.|What is the offspring of a male horse and a female donkey?,Hinny
+984x,Q.What is the only bird that can swim but can't fly?,penguin
+993x,Q.What is the only planet that is less dense than water?,saturn
+1002x,Q.What is the point to which rays of light converge?,focus
+1011x,Q.What is the real identity of Aquaman?,Arthur Curry
+1014x,Q.What is the royal disease?,Haemophilia
+1017x,Q.What is the sacred animal of india?,cow
+1019x,Q.What is the saltiest sea in the world?,Dead Sea
+1021x,Q.What is the science pertaining to the earth's interior heat?,Geothermics
+1025x,Q.What is the search for the existence of ghosts?,Eidology
+1028x,Q.What is the second largest continent?,Africa
+1030x,Q.What is the second largest ocean?,atlantic ocean
+1xy,Q.What numeric term describes perfect eyesight and a form of cricket?,20/20
+2xy,Q.How many dots are there in total on a pair of dice?,42
+3xy,Q.In a game of chess what is the only piece able to jump over other pieces?,Knight
+4xy,Q.What is the square root of 169?,13
+5xy,Q.When spoken by a police officer what do the letters RTA stand for?,Road Traffic Accident
+6xy,Q.Which sign of the zodiac is represented by the Ram?,Aries
+7xy,Q.In Greek legend who turned everything he touched into gold?,Midas
+8xy,Q.Gala Jonagold and Pink Lady are varieties of which fruit?,Apple
+9xy,Q.What is sake made from?,Rice
+10xy,Q.Affenpinscher Keeshond and Leonberger are all types of what?,Dog
+11xy,Q.What is the only anagram of the word `english`?,Shingle
+12xy,Q.What is sciophobia the fear of?,Shadows
+13xy,Q.What was Barack Obama`s father`s first name?,Barack
+14xy,Q.How many stones did David take for his fight with Goliath? One Five or Fifteen?,Five
+15xy,Q.What type of material is produced in a ginnery?,Cotton
+16xy,Q.Which fruit contains the most calories?,Avocado
+17xy,Q.What is the dot on the letter `i` called?,Tittle
+18xy,Q.Which well known brand`s secret ingredient is codenamed x7?,Coke
+19xy,Q.How many years are celebrated in a demisesquicentennial?,75
+20xy,Q.By what name is acetylsalicylic acid more commonly known?,Aspirin
+21xy,Q.In a game of chess which piece is worth more - a rook or a knight?,Rook
+22xy,Q.Chronophobia is the fear of what?,Time
+23xy,Q.Olympus Mons is the largest volcano known to man. Where is it?,Mars
+24xy,Q.Phasmaphobia is the fear of what?,Ghosts
+25xy,Q.What is the name of the currency used in Poland?,Zloty
+26xy,Q.What colour would you associate with the traditional gemstone for September?,Blue
+27xy,Q.Which american state has a name that ends in three vowels?,Hawaii
+28xy,Q.What is oenophobia the fear of? Beer Wine or Water?,Wine
+29xy,Q.February is the shortest month in the year but which is the longest?,October
+30xy,Q.What is metathesiophobia the fear of?,Changes
+31xy,Q.Jupiter is named after Zeus but which Greek god was Mercury named after?,Hermes
+32xy,Q.If you were a `chalkie` in Australia what would your profession be?,Teaching
+33xy,Q.In the Chinese Zodiac which sign comes between the rat and the tiger?,The Ox
+34xy,Q.What is the only word in the English language that ends in the letters "mt",Dreamt
+35xy,Q.What colour was Coca-Cola originally?,Green
+36xy,Q.A philargyrist is someone who loves what?,Money
+37xy,Q.In which decade did the population of the world reach 4 billion?,1970
+38xy,Q.What is pogonology the study of?,Beards
+39xy,Q.What do the initials HB on a pencil stand for?,Hard Black
+40xy,Q.What is the correct term for the people commonly known as `Eskimos`?,Inuit
+41xy,Q.Xyrophobia is the fear of what? Razors Soap or Sticky Substances?,Razors
+42xy,Q.What starts with `T` ends with `T` and has `T` in it?,Teapot
+43xy,Q.Which European country is the largest consumer of beer per head?,Germany
+44xy,Q.If Superman works for the Daily Planet who works for the Daily Bugle?,Spiderman
+45xy,Q.In which country did the dish chop-suey originate?,America
+46xy,Q.What is the world`s largest lake?,The Caspian Sea
+47xy,Q.The currency of Costa Rica shares its name with which punctuation mark?,Colon
+48xy,Q.Which two words is the company name Intel abbreviated from?,Integrated tecnology
+49xy,Q.What is Anginaphobia a fear of? Thickness Narrowness or Darkness?,Narrowness
+50xy,Q.What does FTP stand for in the world of computers and the internet?,File Transfer Protocol
+51xy,Q.What does RAM stand for in computer terminology?,Random Access Memory
+52xy,Q.In computer networking what does LAN stand for?,Local Area Network
+53xy,Q.What does USB stand for in computer hardware?,Universal Serial Bus
+54xy,Q.What is the top colour on a rainbow?,Red
+55xy,Q.Which chess piece always remains on the same coloured squares?,Bishop
+56xy,Q.The month of January is named after which Roman God?,Janus
+57xy,Q.By what name is Babara Millicent Roberts better known?,Barbie
+58xy,Q.How many yards are there in a mile?,1760
+59xy,Q.Acrophobia is the fear of what?,Heights
+60xy,Q.In which religion is the god Brahma found?,Hinduism
+61xy,Q.If you were born on Christmas day which star sign would you be?,Capricorn
+62xy,Q.How many squares are there along one side of a Scrabble Board?,15
+63xy,Q.What is the first prime number greater than 50?,53
+64xy,Q.How many tiles are used in the game Mah-jong?,144
+65xy,Q.What was Minerva the Roman goddess of? Love Beauty or Wisdom?,Wisdom
+66xy,Q.Which game was invented in the 1930s and originally called Lexiko?,Scrabble
+67xy,Q.What would someone who was involved in pyrotechnics make?,Fireworks
+68xy,Q.How many squares are there on a Scrabble board?,225
+69xy,Q.What is the second-highest hand in a standard game of poker?,Straight Flush
+70xy,Q.Which sign of the zodiac is represented by the Fishes?,Pisces
+71xy,Q.What is the singular of the word `graffiti`?,Graffito
+73xy,Q.What is the only country to have a flag which consists of only one colour?,Libya
+74xy,Q.If you were born on Halloween what star sign would you be?,Scorpio
+75xy,Q.What is the birthstone for the month of February?,Amethyst
+76x,Q.How many American cents make up a dime?,10
+77xy,Q.From which country does the game of mah-jong originate?,China
+78xy,Q.Which breed of dog has breeds called Welsh Scottish and Irish?,Terrier
+79xy,Q.Who was the Roman God of War?,Mars
+80xy,Q.How many days were there in February in the year 2000?,29
+81xy,Q.How many pieces are there in a standard set of dominoes?,28
+82xy,Q.What animal is used to represent the star sign Leo?,Lion
+83xy,Q.Used in a variety of games what are sometimes known as `devil`s bones`?,Dice
+84xy,Q.The Italian word for `scratched drawings` is used commonly in English. What is it?,Graffiti
+85xy,Q.A Griffin has the body of what animal?,Lion
+86xy,Q.Heliophobia is the fear of what?,Sun
+87xy,Q.What colour is a custard apple?,Green
+88xy,Q.What is ornithophobia the fear of?,Birds
+89xy,Q.What is the third letter of the Greek alphabet?,Gamma
+90xy,Q.Diamond is the birthstone for which month?,April
+91xy,Q.What does a numismatist collect?,Coins
+92x,Q.What popular drink was originally called `Brad`s Drink`?,Pepsi
+93xy,Q.What is the Spanish name for a Bullfighter?,Matador
+94xy,Q.What is photophobia a fear of?,Light
+95xy,Q.In Greek mythology what was Medusa`s hair made of?,Snakes
+96xy,Q.What is the first letter of the Greek alphabet?,Alpha
+97xy,Q.Who was the Greek God of love?,Eros
+98xy,Q.What would an antiquarian collect?,Antiques
+99xy,Q.What does a chandler make?,Candles
+100xy,Q.What is Hypnophobia the fear of?,Sleep
+1,Q.What was the first name of the first human in space?,Yuri
+2,Q.What was the name of the first american satellite?,Explorer
+3,Q.Each finger on your hand has how many bones?,3
+4,Q.In roman numerals what is L multiplied by X?,D
+5,Q.What is a step-by-step method of accomplishing a task?,Algorithm
+6,Q.Depression can be caused by a lack of what vitamin?,B6
+7,Q.Although never found as a free metal what is the most abundant metallic element in Earth's crust?,Aluminum
+8,Q.What is it called when the color of the digital image is adjusted by rearranging the dots?,Dithering
+9,Q.What does a barometer measure?,Air Pressure
+10,Q.What is the only number that when you double it is twice as much as you square it?,1
+11,Q.What country is nearest to the point where the equator and the prime meridian meet?,Ghana
+12,Q.What name is given to a cloud of gas and dust in interstellar space?,Nebula
+13,Q.What percentage of the mass of the solar system does the sun contain?,98%
+14,Q.What asian city was once called Edo?,Tokyo
+15,Q.What company makes and sells the iPOD?,APPLE
+16,Q.What is the name of the stone that rises from a cave floor?,Stalagmite
+18,Q.Who sampled Dido's "Thank You" on his hit song "Stan" about an obssesed fan?,Eminem
+19,Q.What does the word "constellation" mean?,Stars Together
+20,Q.How many keys are there on a standard Microsoft Keyboard?,104
+21,Q.What was the name of first large scale electronic computer?,ENIAC
+22,Q.Where is the tallest mountain in the solar system?,Mars
+23,Q.Where would you be if you had flown to Leonardo da Vinci International airport?,Rome
+24,Q.Who makes the Altezza?,TOYOTA
+25,Q.What company developed a computer with the codename LISA in the 80's?,APPLE
+26,Q.What Windows keyboard shortcut will 'undo'?,CTRL+Z
+27,Q.Where was the Uzi submachine gun invented?,Israel
+28,Q.What soccer term is defined as:'the act of a goalkeeper in blocking or stopping a shot?,SAVE
+28,Q.What city on Luzon Island is known as the Pearl of the Orient?,Manila
+29,Q.What world capital is known as Krung Thep meaning City of Angels?,Bangkok
+30,Q.What year did Kodak introduce the Autographic system?,1914
+31,Q.Watch out Superman! Since 1960 a meter has been defined as 1650763.73 wavelengths emited by an isotope of which element?,Krypton
+32,Q.According to Littlewood's Law of Miracles how often do we experience one-in-a-million miracle?,Once a month
+33,Q.What part of the atmosphere helps radio signals to skip?,Ionosphere
+34,Q.What is the world's largest lizzard?,Komodo Dragon
+35,What sort of waves do most TV remote controls use when you don't want to change the channel yourself,Infrared Waves
+36,Q.When a ballerina extends one leg straight back what is the movement called?,Arabesque
+37,Q.What metal can you make softer increasing the amount of copper and decreasing the amount of zinc?,Brass
+38,Q.In the Harry Potter books who or what is a Quidditch?,Sport
+39,Q.What software company makes excell?,MICROSOFT
+40,Q.What is the only day named after a planet?,SATURDAY
+41,Q.Also known as the Seven Sisters the Pleiades are seven stars in what constellation?,Taurus
+42,Q.Dinosaurs lived in the jurassic times. In what epoch do we lived now?,Holocene
+43,Q.What kind of program is "Outlook"?,EMAIL
+44,Q.What are the logical separation between data on a CD called?,TRACKS
+45,Q.What year was the electronic camera flash invented?,1931
+46,Q.What is the addictive chemical in cigarettes?,NICOTINE
+47,Q.What is the only English number-word whose letters also happen to appear in alphabetical order?,40
+48,Q.What device is used for converting text and images into a digital format?,Scanner
+49,Q.In characters what is the maximum possible length of a Web site's domain name (including the .com)?,67
+50,Q.What is considered the most important prize given for letreture?,NOBEL
+51,Q.The quote 'parting is such a sweet sorrow' is from what play?,Romeo and Juliet
+52,Q.Name the game system manufactured by Microsoft to compete with Sony and Nintendo?,Xbox
+53,Q.what is the only asteroid visible to the naked eye?,VESTA
+55,Q.How many zeros make up one billion or milliard?,9
+56,Q.What is the only sign of the zodiac that does not represent something alive?,LIBRA
+57,Q.In math what do you get exponentialy when you rise a number (other than 0) to the power of 0?,1
+58,Q.in the night sky which constellation is the "chained princess"?,Andromeda
+59,Q.how many teeth are in the human dentition?,32
+60,Q.Based on "the experts group"  that created it what do the letters MP in "mp3" stands for?,Moving Picture
+61,Q.which part of a TV changes the channel?,Tuner
+62,Q.how many years is the U.S. President's term of service?,4
+63,Q.White gold is made by adding what element?,Platinum
+64,Q.What is an unpowered fixed-wing heavier-than-air craft?,Glider
+65,Q.Sagittarius is represented by what symbol?,Archer
+67,Q.What animal was worshiped in Egypt as a god called Bastet?,Cat
+68,Q.Where is your retina found?,Eye
+69,Q.What 1998 film's tagline was "every ant has his day"?,Antz
+71,Q.What book's Hindi title means "Proverbs about love"?,Kama Sutra
+72,Q.What device is guaranteed to provide power to a computer if there is a power failure?,UPS
+73,Q.How many soldiers does the Vatican City have in its army?,100
+74,Q.What is the voltage of an AA battery?,1.5
+75,Q.Joe Rogan hosts this reality game show where players face their fears?,Fear Factor
+76,Q.What is a person who types into a computer exactly what a person speaks?,Technographer
+77,Q.What covers 75% of russia?,Siberia
+78,Q. in Math what is 1 minus -1?,2
+79,Q.Who wrote "The Divine Comedy"?,Dante
+80,Q.What year was the windsheild wiper invented?,1905
+81,Q.If a stamp in your collection says 'Soumi on it' in what country did it come from?,Finland
+82,Q.Hydrogen is the first element in the periodic table. What is the second?,Helium
+83,Q.what is a baby whale called?,Calf
+84,Q.On what island are you if you're paying a house call to the emperor of Japan?,Honshu
+85,Q.Who is recognized as the father of Artificial Intilligence (AI)?,John Mccarthy
+86,Q.SONAR and RADAR are both acronyms. What does the last letter in each word stand for?,Ranging
+87,Q.The asteroid belt is found between which two planets?,Mars and Jupiter
+88,Q.In the 'Batman' tv series what was the butler Alfred's last name?,Pennyworth
+89,Q.what country is famous for its Blue Mountain coffee?,Jamaica
+90,Q.Ailurophobia is the fear of what?,Cat
+91,Q.Eye problems can be caused by defeciency in what vitamin?,B2
+92,Q.The full name of the man who hates christmas in Charles Dickens's novel "A Christmas Carol"?,Ebenezer Scrooge
+93,Q.Judas betrayed Jesus Christ in exchange for how many Silver Coins?,30
+94,Q.Norse myth the goddess of love and fecundity sister of Frey?,Freya
+95,Q.(Norse myth) The ultimate destruction of the gods in a cataclysmic battle with evil?,Ragnarok
+96,Q.In what part of the body is axillary temperature taken?,Armpit
+97,Q.Mariah Carey and Whitney Houston sang the duet "When you believe" for what animated movie?,Prince of Egypt
+98,Q.What company was founded by Bill Gates?,Microsoft
+99,Q.You can find the Colosseum at which location?,Rome
+100,Q.What is the place called where two bones meet?,Joint
+101,Q.Cerumen is a medical term for what?,Earwax
+102,Q.What gas is solidified to create dry ice?,Carbon dioxide
+103,Q.What was the most important celestial object of the Aztecs?,SUN
+104,Q.A type of Japanese animated film with themes and styles similar to manga comics?,ANIME
+105,Q.A material consisting of the skin of an animal made smooth and flexible?,Leather
+106,Q.a freelance photographer who specializes in candid camera shots of famous people?,Paparazzi
+107,Q.(Norse myth) the supreme creator god the divinity of wisdom culture war and the dead?,Odin
+108,Q.(computing) a program that duplicates itself many times in a network and prevents its destruction?,WORM
+109,Q.(tennis) a game in which the loser has a score of zero?,LOVE
+110,Q.What's the best known artificial international language?,esperanto
+112,Q.Where did Salvador Dali live?,Figueras
+113,Q.Who painted the Mona Lisa?,Da Vinci
+114,Q.What Spanish artist said he would eat his wife when she died?,Dali
+115,Q.Who wrote Julius Caesar Macbeth and Hamlet?,Shakespeare
+116,Q.Who wrote Lazarillo de Tormes?,anonymous
+117,Q.What did the crocodile swallow in Peter Pan?,alarm clock
+118,Q.Where was Lope de Vega born?,Madrid
+119,Q.What are the first three words of the bible?,In the beginning
+120,Q.What did the 7 dwarves do for a job?,miners
+121,Q.Who painted the Sistine Chapel?,Michelangelo
+122,Q.Who wrote La Colmena?,Cela
+123,Q.Name a famous detective who smoked a pipe and played the violin.,Sherlock Holmes
+124,Q.How many people went onto Noah's Ark?,8
+125,Q.What was the name of Don Quijote's horse?,Rocinante
+126,Q.Who was Robin Hood's girlfriend?,Maid Marian
+127,Q.Who wrote the James Bond books?,Ian Fleming
+128,Q.Who wrote Dr. Jekyll and Mr. Hyde?,Robert Louis Stevenson
+129,Q.Who said "I think therefore I am"?,Descartes
+130,Q.Who wrote the Ugly Duckling?,Hans Christian Andersen
+131,Q.Where was El Greco born?,Greece
+132,Q.What's the Hungarian word for pepper?,paprika
+133,Q.Which painter did the group Mecano write a song about?,Dali
+134,Q.Who wrote the Satanic Verses?,Salman Rushdie
+135,Q.What was the first theatre play in Spain?,La Celestina
+136,Q.What's the most important book in the Moslem religion?,Koran
+137,Q.When was Elvis' first ever concert?,1954
+138,Q.Who sang "My Way"?,Frank Sinatra
+139,Q.Who is the main actor in "Cocktail"?,Tom Cruise
+140,Q.Who was the main actor in Superman 2?,Christopher Reeve
+141,Q.Who did Madonna marry?,Sean Penn
+142,Q.Who sang "I'm dreaming of a white Christmas"?,Bing Crosby
+143,Q.What year did Elvis Presley die?,1977
+146,Q.In which city is Hollywood?,Los Angeles
+147,Q.Who did John Lennon marry?,Yoko Ono
+148,Q.Who wrote the song "Johnny be good"?,Chuck Berry
+149,Q.What was the first film with sound?,the Jazz Singer
+150,Q.Which film about Germany won most prizes in 1976?,Cabaret
+151,Q.Where are the Dolomites?,Italy
+152,Q.What's the capital of Kenya?,Nairobi
+153,Q.Which is the largest ocean?,Pacific
+154,Q.What's the capital of Honduras?,Tegucigarpa
+155,Q.What's the capital of Ethiopia?,Addis Ababa
+156,Q.What's the capital of Ecuador?,Quito
+157,Q.What's the smallest country in the world?,Vatican City
+158,Q.What is the capital of Australia?,Canberra
+159,Q.What's the largest city in India?,Bombay
+160,Q.How many avenues radiate from the Arc de Triomphe in Paris?,12
+161,Q.What's the capital of Denmark?,Copenhagen
+162,Q.What's the capital of Brazil?,Brasilia
+163,Q.Which river goes through London?,Thames
+164,Q.What's the highest mountain in Africa?,Kilimanjaro
+165,Q.What's the capital of Finland?,Helsinki
+166,Q.Where is Mulhacen?,Granada Spain
+167,Q.How many states are there in the United States of America?,50
+168,Q.Which river passes through Madrid?,Manzanares
+169,Q.Which German city is famous for the perfume it produces?,Cologne
+170,Q.What's the capital of Monaco?,Monaco
+171x,Q.Which is Britain's second largest city?,Birmingham
+172,Q.What's the highest mountain in the world?,Everest
+173,Q.What's the capital of Scotland?,Edinburgh
+174,Q.Which country has the largest area: Australia Brazil or India?,Brazil
+175,Q.Where are the Luxembourg Gardens?,Paris
+176,Q.Which mountains are between Spain and France?,Pyrenees
+177,Q.Which is the smallest ocean?,Arctic
+178,Q.How many wives did Henry the Eighth have?,six
+179,Q.What year did the first man go into space?,1961
+180,Q.Who was the first man in space?,Gagarin
+181,Q.Where did the first atomic bomb explode for the first time in Japan?,Hiroshima
+182,Q.Who said "Vini vidi vici"?,Caesar
+183,Q.What year did Christopher Columbus go to America?,1492
+184,Q.Who did Lady Diana Spencer marry?,Prince Charles
+185,Q.Who did Prince Rainier of Monaco marry?,Grace Kelly
+186,Q.In What year did the Spanish Civil War end?,1939
+187,Q.When did the First World War start?,1914
+188,Q.When did the Second World War end?,1945
+190,Q.Who was the first president of America?,Washington
+191,Q.Who did Franco designate as his successor in 1969?,Juan Carlos
+192,Q.How many fingers did Ann Boleyn have?,11
+193,Q.Who was Felipe el Hermoso's wife?,Juana la Loca
+194,Q.In what decade was the last execution at the Tower of London?,1940's
+195,Q.When did the Americans leave Vietnam?,1973
+196,Q.Who was the first man on the moon?,Armstrong
+197,Q.What religion was Adolf Hitler?,Catholic
+198,Q.Where was Marco Polo's home town?,Venice
+199,Q.Which Italian leader was terribly afraid of the evil eye?,Mussolini
+200,Q.How many children has Queen Elizabeth the Second got?,4
+201,Q.What's the real name of Siddartha Gautama?,Buddha
+202,Q.What's the name of the famous big clock in London?,Big Ben
+203,Q.Where was Christopher Columbus born?,Genoa
+204,Q.What year did the American Civil War end?,1865
+205,Q.What country gave Florida to the USA in 1891?,Spain
+206,Q.Who gave his name to the month of July?,Julius Caesar
+207,Q.What did the Montgolfier brothers invent?,the balloon
+208,Q.What year did President Kennedy killed?,1963
+209,Q.What stopped in London at 3.45 on August 5th 1975?,Big Ben
+210,Q.What nationality was Marco Polo?,Italian
+211,Q.Who is the tallest basketball player in the world with a height of 2.31m?,Manute Boll
+212,Q.What do you use to take a cork out of a bottle?,corkscrew
+213,Q.What language has the most words?,English
+214,Q.What's the name of the main airport in Madrid?,Barajas
+215,Q.What money do they use in Japan?,Yen
+216,Q.Where does the American president live?,The White House
+217,Q.What is the first letter on a typewriter?,Q
+218,Q.What do the opposite sides of a dice add up to?,7
+219,Q.Which fast food restaurants were established by Ray Kroc?,McDonalds
+220,Q.How long is a round in boxing?,3 minutes
+222,Q.What's the highest score in a gymnastics exercise?,10
+223,Q.What time do the pubs normally close in England?,11 o'clock
+224,Q.How many months have 31 days?,7
+225,Q.How many eyes are there on a pack of 52 cards?,42
+226,Q.What is the main language in Albania?,Tosco
+227,Q.What's the fastest passenger plane in the world?,concorde
+228,Q.What are the Sun the Independent and the Guardian?,newspapers
+229,Q.How many coloured balls are there in billiards?,15
+230,Q.What's the longest word in Spanish?,superextraordinarissimo
+231,Q.How many players are there in a basketball team?,5
+232,Q.How many lanes does an olympic swimming pool have?,8
+233,Q.In what language does "obrigado" mean "thank you"?,Portuguese
+234,Q.How many squares are there on a chess board?,64
+235,Q.How many prongs are there on a fork?,4
+236,Q.Who starts first in chess?,white
+237,Q.How many events are there in the decathlon?,10
+238,Q.What activity other than jumping are kangaroos good at?,boxing
+239,Q.How many players are there in a volleyball team?,6
+240,Q.Who named a perfume for her fashion shows on the 5th day of the month?,Chanel
+241,Q.How many dots are there on two dice?,42
+242,Q.What horoscope sign has a crab?,Cancer
+243,Q.In which shop can you buy books in England?,bookshop
+244,Q.What does the female praying mantis do after she's made love?,eats the male
+245,Q.How many colours are there in a rainbow?,7
+246,Q.How many legs has a spider got?,8
+247,Q.What type of elephant has got the biggest ears?,African
+248,Q.Who invented the electric light bulb?,Thomas Edison
+249,Q.Which nail grows fastest?,middle
+250,Q.Who discovered penicillin?,Fleming
+251,Q.What did Joseph Priesley discover in 1774?,Oxygen
+252,Q.Where is the smallest bone in the body?,Ear
+253,Q.What is the only mammal that can't jump?,Elephant
+254,Q.What does the roman numeral C represent?,100
+255,Q.What's the smallest type of tree in the world?,Bonsai
+256,Q.Who invented television?,John Logie Baird
+257,Q.Who said E=mc^2?,Einstein
+258,Q.Which planet is nearest the sun?,Mercury
+259,Q.What colours make purple?,red and blue
+260,Q.What's the hardest rock?,diamond
+261,Q.How much does a litre of water weigh?,1kg
+262,Q.What percentage of the world's land area is occupied by Asia the largest continent?,30%
+263,Q.What was the name of Sir Walter Raleigh's black greyhound?,Hamlet
+264,Q.What was the first continental European city to build a subway?,Budapest
+265,Q.What nation's symbol is an eagle perched on a cactus with a writhing snake in its beak?,Mexico
+266,Q.Where is the world's largest sculpted strawberry?,Iowa
+267,Q.Where was the world's first paper money used?,China
+268,Q.What country once was plagued by a murderous religious sect whose members were called thugs?,India
+269,Q.What is the largest city in population south of the Equator?,Sao Paolo
+270,Q.What is the name of the highest mountain peak in the former Soviet Union?,Communism Peak
+271,Q.What was an official language in 87 nations and territories by 1994?,English
+272,Q.What's the third-largest continent in square miles?,North America
+273,Q.What's the second most populous continent?,Europe
+274,Q.What southwestern U.S. state has the highest percentage of non-English speakers?,New Mexico
+275,Q.What M-word did Texas citizens choose as a town name that would "attract" folks?,Magnet
+276,Q.What state leads the U.S. with 15 tons of solid waste per citizen each year?,California
+277,Q.Which is further from the equator Tasmania Tanzania or Transylvania?,Transylvania
+278,Q.What eastern town is home for a service academy and the U.S. Sliver Depository?,West Point
+279,Q.What's the University of Paris more commonly called?,The Sorbonne
+280,Q.What two French cities are connected by the planet's fastest passenger train?,Paris and Lyons
+281,Q.What religion has the most adherent Buddhism Christianity or Islam?,Christianity
+282,Q.What U.S. state boasts a town called Captain Cook?,Hawaii
+283,Q.What's the Greek name for hell?,Hades
+284,Q.What European country does Aruba maintain the strongest ties to?,Netherlands
+285,Q.What do the Chinese call kwai-tsze or "quick little fellows"?,Chopsticks
+286,Q.What European country uses its Latin name Helvetia on its stamps?,Switzerland
+287,Q.British university boasts & endowment called the Jackie Mason Lectureship in Contemporary Judaism?,Oxford
+288,Q.What country did Greek historian Herodotus dub "the gift of the Nile"?,Egypt
+289,Q.What country is only bordered by Spain?,Portugal
+290,Q.What's the flattest U.S. state?,Florida
+291,Q.What U.S. state after much debate made the bizcochito the official state cookie?,New Mexico
+292,Q.What Australian city boasts the largest Greek population in the world outside of Greece?,Melbourne
+293,Q.What country has been the planet's largest aid donor since 1991?,Japan
+294,Q.What island nation is a must for anyone wishing to see 40 species of lemours?,Madagascar
+295,Q.What country is almost twice as large as either the U.S. or China?,Russia
+296,Q.What South Asian city is the planet's biggest feature film producer?,Bombay
+297,Q.How many Great Lakes do not border Michigan?,One
+299,Q.What cowboy tune is the official song of Kansas?,Home on the Range
+300,Q.What continent boasts the most telephone lines?,Europe
+301,Q.What do Texas beef partisans call "wool on a stick"?,Lamb
+302,Q.What South American country was home to the early human 'Patagnian giants"?,Argentina
+303,Q.What Western Hemisphere people spoke Nahuatl?,Aztecs
+304,Q.What regional accent did Americans deem sexiest most liked and most recognizable?,Southern
+305,Q.What body part is low-density lipoprotein most likely to clog?,Arteries
+306,Q.What's wire rope most often called?,Cable
+307,Q.What was the short word for "Infantile Paralysis" on 1950s March of Dimes posters?,Polio
+308,Q.What book did Christians often place on their foreheads to cure insomnia in medieval times?,Bible
+309,Q.What are you shopping for if you're sized up by a Brannock Device?,Shoes
+310,Q.What's the most common automotive essential that is measured in terms of its viscosity?,Oil
+311,Q.What did 18th-century chemist Antoine Lavoisier prove was a compound of hydrogen and oxygen?,Water
+312,Q.What objects are studied in what enthusiasts call "ufology"?,Unidentified flying objects
+313,Q.Who's known in the shrink biz as "Weird Beard"?,Sigmund Freud
+314,Q.What's the unit of capacity for fuel wood?,cord
+315,Q.How many of every ten coffee beans in USDA approved coffee can be moldy insect-infested or insect-damaged?,One
+316,Q.What's the English title of Freud's book Traumdeutung?,The Interpretation of Dreams
+317,Q.What celestial objects were once referred to as "hairy stars"?,Comets
+318,Q.What tool did astronomer Rodger Thompson say is "fundamentally altering our view of the universe"?,Hubble telescope
+319,Q.What's the most common contributor to chronic bronchitis?,Smoking
+320,Q.What constellation points to the south celestial pole?,Southern Cross
+321,Q.What's the study of materials at very low temperatures?,Cryogenics
+322,Q.What unit of length is derived from the Latin word uncia?,Inch
+323,Q.What country launched Europe's first super-high-speed passenger train in 1981?,France
+324,Q.What's believed by many to be a satellite of Neptune that escaped its primary orbit?,Pluto
+325,Q.What planet is circled by only two moons?,Mars
+326,Q.What artillery weapon was launched upon the world in 400 B.C.?,The catapult
+327,Q.What procedure is performed on an abscess if the dentist thinks the tooth can be saved?,Root canal
+328,Q.What Greek advised: "Let your food be your medicine and your medicine by your food"?,Hippocrates
+329,Q.What does an anthropophagic census-taker fear?,People
+330,Q.In Greek mythology Deianeira was the wife of who?,HERCULES
+331,Q.Odin owned Geri and Freki what were they?,WOLVES
+332,Q.Who designed the difference engine finally built in 1991?,CHARLES BABBAGE
+333,Q.Copper gets its name from which Mediterranean country?,CYPRUS
+334,Q.The opening lines of which classic Russian novel are in French?,WAR AND PEACE
+335,Q.Who had the gift of prophecy and the curse of not being believed?,CASSANDRA
+336,Q.The religious text Tripitaka comes from which religion?,BUDDHISM
+337,Q.Which group of stars name means "chained maiden"?,ANDROMEDA
+338,Q.The Shining Path is a revolutionary movement in which country?,PERU
+339,Q.Old Dominion was a nickname of which US state,VIRGINIA
+340,Q.Jim Rhodes is the alter ego of which Marvel comic book hero?,WAR MACHINE
+341,Q.Which company manufactures Calvin Kline's Obsession?,UNILEVER
+342,Q.In music if F major is the key what is the relative minor?,D MINOR
+343,Q.Petroselinum crispum is the Latin name of which herb?,PARSLEY
+344,Q.Hashimoto's disease is the malfunctioning of which gland?,THYROID
+345,Q.Which Biblical heroes name meant "splendid sun"?,SAMSON
+346,Q.Which famous battle was fought at Senlac Hill?,BATTLE OF HASTINGS
+347,Q.Name the Greek Goat Amalthea's horns where good things flowed from.,CORNUCOPIA
+348,Q.The Zagros mountain range is in which country?,IRAN
+349,Q.Which group of Marvel superheroes usually fought Doctor Doom?,FANTASTIC FOUR
+350,Q.In which country could you spend a taka?,BANGLADESH
+351,Q.In the Bible who was Adam and Eves youngest child?,SETH
+352,Q.Which psychologist invented the terms introvert and extrovert?,CARL JUNG
+353,Q.The star Spica is in which constellation?,VIRGO
+354,Q.In 1782 in France what was louison or louisette before it was renamed?,GUILLOTINE
+355,Q.The religious text Mishna comes from which religion?,JUDAISM
+356,Q.1980 Pac Man the arcade version was released by which company?,MIDWAY
+357,Q.Which drug company manufactures Viagra?,PFIZER
+358,Q.Boaz appears in which book of the Bible?,RUTH
+359,Q.Which search engine gets its name from Latin for wolf spider?,LYCOS
+360,Q.In Greek mythology Penthesilea was the queen of which people?,AMAZONS
+361,Q.N2O is more commonly known as what?,LAUGHING GAS
+362,Q.In which game would you use the royal fork?,CHESS
+363,Q.Greek Mythology: Which character was raised by centaur Chiron?,JASON
+364,Q.Which company produces PageMaker Photoshop and Acrobat?,ADOBE
+365,Q.Catholic Calendar: What is the 50 days following Easter called?,PENTECOST
+366,Q.David kills Goliath in which book of the Bible?,SAMUEL
+367,Q.Where is King Arthur supposed to be resting?,AVALON
+368,Q.Which Norse God invulnerable to all else was killed by a mistletoe?,BALDUR
+369,Q.Which country's translated name means "Land of the Eagle"?,ALBANIA
+370,Q.The name of which language means "off the coast" in Arabic?,SWAHILI
+371,Q.The Sejm are the legislative body in which country?,POLAND
+372,Q.The French call it pomplamouse what do we call it?,GRAPEFRUIT
+373,Q.The Romans called it Numidia what do we call it today?,ALGERIA
+374,Q.The continental title baron is equal to which UK title?,EARL
+375,Q.In Greek mythology who invented the lyre?,HERMES
+376,Q.In the book "Little Women" what is the sister's surname?,MARCH
+377,Q.Which breed of dog gets its name from the French for earth?,TERRIER
+378,Q.What is extracted from the ores Paronite and caronite?,TITANIUM
+379,Q.Nelis Seckel Forelle and Bosc all varieties of what?,PEARS
+380,Q.Dalmatian dogs originated in which country?,YUGOSLAVIA
+381,Q.All inhabitants of Pitcairn island belong to what US religion?,SEVENTH DAY ADVENTISTS
+382,Q.What was Bruce Lees first Hollywood produced film?,ENTER THE DRAGON
+383,Q.In the Bible where was Jesus when he ascended into heaven?,BETHANY
+384,Q."In a state of readiness" is the literal meaning of which job title?,WAITER
+385,Q.Tefnut was the Egyptian goddess of what?,RAIN
+386,Q.What is the name for the sacred circle in Tantric Buddhism?,MANDALA
+387,Q.In religious art which Saint is associated with an ox?,ST. LUKE
+388,Q.Which dog breed gets its name from German meaning "to splash"?,THE POODLE
+389,Q.In Norse mythology women were made from a tree - which tree?,ELM TREE
+390,Q.In McDonald's what is usually served in a blue wrapper?,FILET-O-FISH
+391,Q.Syncope is the medical name for what condition?,FAINTING
+392,Q.Urchin is an old English name for which British native mammal?,HEDGEHOG
+393,Q.Mimi is the first name of which Warner Bros cartoon character?,ROAD RUNNER
+394,Q.What is the first word sung in Queen's "Bohemian Rhapsody"?,IS
+395,Q.From which plant do we get linseed oil?,FLAX
+396,Q.The Parthenon is named after Athena "Parthenon" means what?,VIRGIN
+397,Q.The Semites are a group descended from whom?,SHEM
+398,Q.In Finland who rides a goat named Ukko?,SANTA CLAUS
+399,Q.Skopje is the capital of what?,MACEDONIA
+400,Q.Marfona Romano and Pentland Javelin are varieties of what?,POTATOES
+401,Q.Which country was the first to issue parking tickets?,FRANCE
+402,Q.Whose name translates as "Emperor of All"?,GENGHIS KHAN
+403,Q.The lutra-lutra is which semi aquatic animal?,OTTER
+404,Q.Near Ayers Rock is a lake named after which composer?,MOZART
+405,Q.In mythology which giant made of brass guarded Crete?,LYRE
+406,Q.Calamine is the ore what is the product?,ZINC
+407,Q.In which form of Japanese theatre are all roles played by men?,KABUKI
+408,Q.Which car company was founded by Sir William Lyons in 1922?,JAGUAR
+409,Q.What is measured in grains - four grains to a carat?,PEARLS
+410,Q.In which country would you find Lake Disappointment?,AUSTRALIA
+411,Q.In 1579 the Netherlands achieved independence from which country?,SPAIN
+412,Q.The Chako War 1932-1935 was between which two South American countries?,BOLIVIA PARAGUAY
+413,Q.Name the first Bond film not based on an Ian Fleming book,GOLDENEYE
+414,Q.Which pop group had the most US No 1 singles in the 70's?,ABBA
+415,Q.Beelzebub is Hebrew for which phrase - also a novel's title.?,LORD OF THE FLIES
+416,Q.What is the English name for the constellation Mensa?,TABLE
+417,Q.Which dance means in Portuguese "snapping of a whip"?,LAMBADA
+418,Q.Which of Santa's reindeer comes first alphabetically?,COMET
+419,Q.In British army what ranks between Major General and Colonel?,BRIGADIER
+420,Q.Those born on April Fool's day are on what star sign?,ARIES
+421,Q.Name of which household object comes from Latin "to wonder at"?,MIRROR
+422,Q.What is the correct term for a young un-bred male fur seal?,BACHELOR
+423,Q.Who got a gold single for the song Daniel in 1973?,ELTON JOHN
+424,Q.In the human body where is the macula.,EYE
+425,Q.What is the correct name for a two-handed timber saw?,WHIPSAW
+426,Q.Zapateodo is a rhythmic device used in what music style?,FLAMENCO
+427,Q.Shoot for the moon is a term used in which card game?,HEARTS
+428,Q.In an orchestra which instrument has the greatest number?,VIOLINS
+429,Q.In Shakespeare who is Romeo's love - before Juliet?,ROSALINE
+430,Q.A young mackerel is called a what?,BLINKER
+431,Q.What is the more common name for blue corundum?,SAPPHIRE
+432,Q.What was the first country to use postcards?,AUSTRIA
+433,Q.Which company's name translates as "Rising Sun"?,HITACHI
+434,Q.Which US states' constitution was the first to prohibit slavery?,VERMONT
+435,Q.If you shout "Tsuki!" what sport are you practicing?,KENDO
+436,Q.Which country has no national monetary unit of its own?,ANDORRA
+437,Q.What is the most populous domesticated creature in the US?,HONEYBEE
+438,Q.What type of shoes does the Pope usually wear?,MOCCASIN
+439,Q.In Judaism there are 3 cardinal sins Idolatry Adultery and what?,MURDER
+440,Q.Who was the first rock band to perform at the New York Opera House?,THE WHO
+441,Q.The Greek Goddess Ephesus is the Goddess of what?,CHASTITY
+442,Q.Schschpiel is what game in Germany?,CHESS
+443,Q.What is the ninth letter of the Greek alphabet?,IOTA
+444,Q.What does a kymograph measure?,OSCILLATIONS
+445,Q.Who invented the word "pandemonium"?,JOHN MILTON
+446,Q.What was the first creature put on the endangered species list?,PEREGRINE FALCON
+447,Q.Ops was the wife of which Roman God?,SATURN
+448,Q.What does "roulette" literally mean?,LITTLE WHEEL
+449,Q.Johannes Ostermeir invented which photographic aid?,FLASHBULBS
+450,Q.Mandarin and Peter Pan are which parts of a garment?,COLLARS
+451,Q.Pentlandite is the main ore providing which metal?,NICKEL
+452,Q.Flower of the blessed night is the local name of which plant?,POINSETTIA
+453,Q.If you had some gentles jig gag and coop what are you doing?,FISHING
+454,Q.In Sanskrit this geographical area means "House of Snow",HIMALAYAS
+455,Q.A plane's black box is usually named after which King?,MIDAS
+456,Q.Exodus and which book of the Bible list the Ten Commandments?,DEUTERONOMY
+457,Q.Name the surveyors' symbol that looks like a broad arrow with a bar?,BENCHMARK
+458,Q.Mumbai is the modern name of which city?,BOMBAY
+459,Q.The "Paraclete" is another name for which Christian religious term?,HOLY SPIRIT
+460,Q.Chysoprase is a shade of what primary color?,RED
+461,Q.From which country did the original vandals come from?,GERMANY
+462,Q.What religious leader's name means "Sign of God"?,AYATOLLAH
+463,Q.What creature appears on the Samoan flag?,EAGLE
+464,Q.In the body where would you find your "diverticula"?,LARGE INTESTINE
+465,Q.In which religion are the holy writings called the "Adi Granth"?,SIKHISM
+466,Q.What type of creature was an Archelon?,TURTLE
+467,Q.Where could you spend a Lempira?,HONDURAS
+468,Q.What is the other term for the / slash sign?,VIRGULE
+469,Q.Which company's logo is based on the legend of cats having nine lives?,EVEREADY
+470,Q.Which meteorological phenomena means "a curl of hair" in Latin?,CIRRUS CLOUDS
+471,Q.What are studied by hymenopterists?,BEES
+472,Q.What beverage is named after a UK Prime Minister of the 1830's?,EARL GREY TEA
+473,Q.Which island gets its name from the Portuguese for "bearded"?,BARBADOS
+475,Q.What is made by the Crush Tear Curl Process?,TEA
+476,Q.Which composer was nicknamed "The Red Priest"?,VIVALDI
+477,Q.Which country is named after its highest point?,KENYA
+478,Q.The head of which organization is known as The Black Pope?,THE JESUITS
+479,Q.What area gets its name from the Greek word for "bear"?,ARCTIC
+480,Q.What shape is a saggitated leaf?,ARROW SHAPED
+481,Q.Winnie the Pooh lived where?,HUNDRED ACRE WOOD
+482,Q.Who was known as the Father of Science Fiction?,JULES VERNE
+483,Q.Which part of the body will expand three times when excited?,IRIS
+484,Q.Which garment traditionally contains eight sections of material?,KIMONO
+485,Q.What car brand is also the Latin word for "to roll"?,VOLVO
+486,Q.What do the Chinese regard as the highest form of visual art?,CALLIGRAPHY
+487,Q.Collective nouns - A shiver of what?,SHARKS
+488,Q.Which South American country does not border the Pacific?,BELIZE
+489,Q.Which world city is known as "The Golden City"?,PRAGUE
+490,Q.What is another name for a URL?,Web page address
+491,Q.Pong was an early console type of game based on which sport?,Table Tennis
+493,Q.What does C stand for in IRC?,Chat
+494,Q.Which Defense Department first set up the messaging system which became the Internet?,Pentagon
+495,Q.In telephone terms what was a party line?,Shared phone line
+496,Q.How many bits are there in a byte?,Eight
+497,Q.Alta Vista is a type of what?,Search Engine
+498,Q.From Earth where was the destination of the longest long-distance telephone call?,Moon
+499,Q.It's purpose is to allow people to get in touch over long distances,dataglove
+500,Q.What does D stand for in ISDN?,Digital
+501,Q.Barclay Square was an early Internet site offering what?,Shopping
+502,Q.Which company launched CDi in the early 1990s?,Philips
+503,Q.What is a message sent to a newsgroup in the Internet called?,Article
+504,Q.On the Internet what is Spam?,Junk mail
+505,Q.A bitmap is a collection of what?,Dots
+506,Q.In the WIMP system of computing what did W stand for?,Windows
+507,Q.If edu appears at the end of an address what is the host computer?,University
+508,Q.What does H stand for in http?,Hyper
+509,Q.What was the name of the first satellite to relay live TV pictures between the USA and Europe?,Telstar
+510,Q.On the Internet what does the first B stand for in BBS?,Bulletin
+511,Q.What does the first W stand for in WWW?,World
+512,Q.If you surf the Internet what do you do?,Look around
+513,Q.What means good behavior on the Internet?,netiquette
+514,Q.Which page of a Web site is called a Home Page?,First
+515,Q.In addition to the computer what else must a modem be plugged into?,Phone
+516,Q.What is the minimum number of computers which can be networked?,Two
+517,Q.What does Q mean in FAQ?,Question
+518,Q.What letter appears on the computer screen when you are using Microsoft Internet Explorer?,E
+519,Q.What does S stand for in ISP?,Service
+520,Q.Which name of something used by avid readers is the Netscape Navigator name for Favorites?,Bookmarks
+521,Q.In which country did the Internet start?,USA
+522,Q.Where does a bounced email return to?,Sender
+523,Q.What name is given to the software program needed to access the Web?,Browser
+524,Q.Which 'space' refers to the Internet and all that goes with it?,Cyber
+525,Q.If you have an active Internet connection you are said to be on what?,On line
+526,Q.What is the opposite of downloading?,Uploading
+527,Q.In an e mail address how is a symbol like a period said out loud?,Dot
+528,Q.What name is given to a program designed to cause damage by attaching itself to other programs?,Virus
+529,Q.The Emerald City was the working title of which classic novel?,Wizard of Oz
+530,Q.What classic gothic novel of 1818 was subtitled The Modern Prometheus?,Frankenstein
+531,Q.What is the actual title of Leonardo da Vinci's "Mona Lisa"?,La Gioconda
+532,Q.What was the name of the she-ape that rescued the infant Tarzan and raised him to be Lord of the Apes?,Kala
+533,Q.In the Robin Hood stories what was the real name of Little John?,John Little
+534,Q.What was Dr. Frankenstein's first name in the famous novel by Mary Wollstonecraft Shelly?,Victor
+535,Q.Which cartoon character's "racy lifestyle" once led to a ban on his comic books in youth club libraries in Helsinki Finland?,Donald Duck
+536,Q.What was the name of the cat Alice in Wonderland left behind when she fell down in the rabbit hole?,Dinah
+537,Q.How many syllables are there in a Japanese haiku poem?,17
+538,Q.In the original L. Frank Baum story The Wonderful Wizard of Oz what color were Dorothy's slippers?,Silver
+539,Q.What famous character in English literature made hs debut in Beeton's Christmas Annual in 1887?,Sherlock Holmes
+540,Q.In what book  by H.G. Wells did we meet the Eoli and the Morlocks?,The time Machine
+541,Q.Where would you find the Pensacola Mountains?,Antarctica
+542,Q.What is the literal translation of the expression ~vis-a-vis?,Face to face
+543,Q.Graphology is the study of what?,Handwriting
+544,Q.Lisbon Eureka Meyer and Villa Franca are all varieties of what?,Lemons
+545,Q.What colour is pure molten gold?,Green
+546,Q.Harare the capital of Zimbabwe was known by what name until the 1980s?,Salisbury
+547,Q.Who served as the last British governor of Hong Kong?,Chris Patten
+548,Q.In which musical was the song "I remember it well"?,Gigi
+549,Q.Who was the US President at the outbreak of the First World War?,Woodrow Wilson
+550,Q.Jonquil is a shade of which colour?,Yellow
+551,Q.What is the plural of Mongoose?,Mongooses
+552,Q.What is the official language of pakistan?,Urdu
+553,Q.Which North African country doubled as the planet Tatatooine in star wars?,Tunisia
+554,Q.In which sport would competitors undertake a pawlata eskimo and reverse scr[f60 ew?,Canoeing
+555,Q.The pharmaceutical drug sildenafil citratea is much better known by what name?,Viagra
+556,Q.The Korean soup Poshintanga is a popular item on summertime menus but is made from what?,Dogs
+557,Q.The color of insects blood?,Yellow
+558,Q.What is the name of theunderground city in the Matrix films?,Zion
+559,Q.Which shirt number do Italian clubs reserve for their star player?,10
+560,Q.Which male person has the most monuments erected in his name?,Buddha
+561,Q.In which daily newspaper will you find the cartoon series "Rupert the Bear"?,Daily express
+562,Q.What name is given to the member of a film crew who moves the film equipment?,Grip
+563,Q.From which material is an ice-hockey puck made?,Rubber
+564,Q.If something is colubrine it resembles or relates to which type of creature?,Snake
+565,Q.Brabantio is whose father in Shakespeare's play Othello?,Desdemona
+566,Q.Aphasia is the medical term for the inability to use or understand what?,Language
+567,Q.What supposedly militarily-derived term refers informally to not wearing underwear?,Commando
+568,Q.What is iron pyrites commonly called?,Fool's gold
+569,Q.Pony  seven and schooner are Australian terms for what?,Beer glasses
+570,Q.How many zeros are represented by the metric multiple prefix 'tera'?,Twelve
+571,Q.The only US president buried in Washington D.C. proper?,Woodrow Wilson
+572,Q.This animals tongue is twice the size of its body?,Chameleon
+573,Q.Abraham Maslow's fundamentally meaningful theory of motivation?,Hierarchy of Needs
+574,Q.Which river carries the nickname 'old muddy'?,Mississippi
+575,Q.At which racecourse is the Derby and the Oaks traditionally run?,Epsom
+576,Q.What "Dime Lady" earned a lot more than 10 cents-a-minute for her Sprint ads?,Candice Bergen
+577,Q.John F. Kennedy  Jr. founded what politically-themed magazine?,George
+578,Q.This fish lays 500000 eggs at 1 time?,Female Mackerel
+579,Q.Who was the first professional cricketer to be knighted?,Jack Hobbs
+580,Q.What book introduced the phrase Yo Ho Ho and a bottle of RumaE??,Treasure Island
+581,Q.Who had a hit single with `Crocodile Rock` in 1972?,Elton John
+583,Q.What airline painted giant eyes on the engine intakes of their planes to discourage birds from approaching?,Nippon Airways
+584,Q.The hindu goddess of rats?,Karni Mata
+585,Q.What is a filbert nut more commonly called?,Hazelnut
+586,Q.In US which city is the Southern Comfort distillery situated?,St. Louis
+587,Q.A.A. Milne is most famous for creating which bear?,Winnie the Pooh
+588,Q.What Tim Burton movie stars a character first seen riding atop Michael Keaton's hat in Beetlejuice?,The nightmare before christmas
+589,Q.Why does the Bronx Zoo get blood daily from a local slaughterhouse?,To feed its vampire bats
+590,Q.Term for cow spots?,Holstein's spot
+591,Q.Which US president had the nickname 'King of Camelot'?,John F. Kennedy
+592,Q.How many red balls are used in a game of snooker?,15
+593,Q.What U.S. Indian nation was struck by a deadly disease dubbed "unexplained respiratory distress syndrome" in 1993?,Navajo
+595,Q.A newborn ******** is about 1 inch in length.,Kangaroo
+596,Q.What German word refers to a 'double' of a living person often an evil version?,Doppelganger
+597,Q.What does a square with 3 vertical lines inside it mean on a clothing label?,Drip dry
+598,Q.What is the name of the coloured part of an eye,Iris
+599,Q.What auto giant purchased Land Rover?,BMW
+600,Q.What trade was Greek philosopher Socrates trained for?,Stone Cutting
+601,Q.A polecat is not a cat. It is a nocturnal European ******.,Weasel
+602,Q.what traditional unit of energy equates typically to 735-746 watts?,Horsepower
+603,Q.The men's fragrances Fahrenheit & Eau Sauvage are made by which company?,Christian Dior
+604,Q.In what famous film would first have come across the character of Dorothy gale?,The Wizard of Oz
+605,Q.What was the battery-operated Robicomb designed to detect kill and remove from humans?,Lice
+606,Q.The names of the 1st siamese twins in the world?,Chang and Eng
+607,Q.What famous document begins:"When in the course of human events..."?,US declaration of Independence
+608,Q.A ********** can peck twenty times a second.,Woodpecker
+609,Q.Apron -Borrow and Line are terms associated with which sport?,Golf
+610,Q.What was James Bond author Ian Fleminga's middle name?,Lancaster
+611,Q.Who played Jerry in the film `Jerry McGuire`?,Tom Cruise
+612,Q.What space-age metal envelopes the Guggenheim Museum in Bilbao?,Titanium
+613,Q.What game was created by French mathematician Blaise Pascal?,Roulette
+614,Q.Frankfurt stands on which river?,Maine
+615,Q.All ***** start out as males; some decide to become females at some point in their lives.,Clams
+616,Q.Jutland is part of which European country?,Denmark
+617,Q.Who captained the Victory at the Battle of Trafalgar?,Captain Hardy
+618,Q.How many strings are on a violin?,4
+618,Q.What chicken part did Harvard gene-splicers manage to change into a third leg?,Wing
+619,Q.Where did the Gang of Four try to size power in 1976?,China
+620,Q.Which US president was shot while walking to California Governor Jerry brown's office?,Gerald Ford
+621,Q.What is the longest river in Australia?,Murray-darling
+622,Q.An ********* can sleep while it flies.,Albatross
+623,Q.In heraldry what is a wyvern?,Dragon
+624,Q.The 1994 winter Olympics host town Lillehammer is in which country?,Norway
+625,Q.Who got into a big beef with the cattle industry when she swore off meat on her tv show?,Oprah Winfrey
+626,Q.Which Asian city hosted the 1988 olympic games?,Seoul
+627,Q.What was a gladiator armed with in addition to a dagger and spear?,Net
+628,Q.What happens every 30 seconds in America?,Teenage pregnancy
+629,Q.An ****** can stay under water for 28 minutes?,Iguana
+630,Q.What is the descriptively named painting technique where tiny dots blend to form a picture?,Pointillism
+631,Q.Which series of films have had subtitles such as 'Citizens on Patrol' 'City Under Siege' and Assignment miami beach?,Police Academy
+632,Q.Which part of the body would be treated by a chiropodist?,Feet
+631,Q.Which Soviet president took time out for a quintuple heart bypass while in office?,Boris Yeltsin
+632,Q.Who was emperor of Japan during WWII?,Hirohito
+633,Q.Which future Soviet dictator was training to be a priest when he got turned on to Marxism?,Joseph Stalin
+634,Q.Which American State has the motto Esto Perpetua which translates to 'its forever'?,Idaho
+635,Q.Ancient Egyptians believed that **** was the mother of all cats on earth?,Bast
+636,Q.Planchet was the servant of which of the Three Musketeers?,D'artagnans
+637,Q.Who wrote the three musketeers?,Alexandre Dumas
+638,Q.The Andaman Islands in the Indian Ocean are part of which country?,India
+639,Q.What was the hunchback of Notre dame's name?,Quasimodo
+640,Q.Who made celebrities out of his tourist shop neighbors Mumibar and sirajul?,David Letterman
+641,Q.What is the capital of Saudi Arabia?,Riyadh
+642,Q.What 20th-century conflict was dubbed the "forgotten war"?,Korean War
+643,Q.What is the world's largest seed?,Coco de mare palm
+644,Q.The animal with the shortest gestation?,American opossum
+645,Q.Which fish is known in the British fishing industry as 'Silver darling'?,Herring
+646,Q.Which bird has the scientific name "cuculus canorus"?,Cuckoo
+647,Q.Which animal is associated with the beginning of an MGM film?,Lion
+648,Q.What Albanian-born missionary was hailed as the "saint of the gutters"?,Mother Theresa
+649,Q.Of which country is Vientiane the capital?,Laos
+650,Q.What single name is more commonly applied to Holy Roman Emperor charles the great?,Charlemagne
+651,Q.What 1991 film won 'best film' 'actor' 'actress' and director in Oscars?,Silence of the Lambs
+652,Q.A ****** teeth are so sharp that Native Americans once used them as knive blades?,Beaver
+653,Q.What is the basic monetary unit of Iceland?,Korona
+654,Q.How many times has John McEnroe won the MenaE?s Singles title at wimbledon?,3
+655,Q.Which actress played the title role in the 1990 film `Pretty Woman`?,Julia Roberts
+656,Q.What did Miramax change the title scary movie to in 1996?,Scream
+657,Q.Who was the Mongol ruler who conquered 'Persia' 'Azerbaijan' 'Armenia' and Georgia in the 14th century?,Tamerlane
+658,Q.Who was the last president of the Soviet Union?,Mikhail Gorbachev
+659,Q.What was the traditional ancient Persian New Years day gift?,Eggs
+660,Q.The only bird that can fly backwards and sidewards?,Hummingbird
+661,Q.What was poet Lord Byron's first name?,George
+662,Q.What name is given to a matador on horseback?,Picador
+663,Q.How many legs does an insect have?,6
+664,Q.What 24-hour news network debuted with the motto"We report, you decide"?,Fox News
+665,Q.Which two Middle-Eastern countries fought a war from 1980 to 1988?,Iran and Iraq
+666,Q.What modern vehicle was invented to circumvent trench warfare?,Tank
+667,Q.Which sea on Earth has no beaches or shoreline?,Sargasso Sea
+668,Q.Brown eggs come from hens with red feathers and red *** *****.,Ear lobes
+669,Q.Eric Schmidt announced in 2011stepping down from CEO to Ex-Chairman of what corporation?,Google
+670,Q.What is the unit used for measuring the fineness of yarn?,Denier
+671,Q.Which famous person in history rode a horse called Black Bess?,Dick Turpin
+672,Q.What company went public in 1992 with the NASDAQ trading symbol "SBUX"?,Starbucks
+673,Q.Which sea lies between china and korea?,Yellow Sea
+674,Q.What California city did the last Pony Express ride end in?,Sacramento
+675,Q.Amuhea Princess of Medes was the wife of who?,Nebuchadnezzar
+676,Q.The longest name in the bible?,Mahershalalhashbaz
+677,Q.Camels have three ******* to protect themselves from blowing sands.,Eyelids
+678,Q.What do we call the orange roe on scallops?,Coral
+679,Q.What is the name of the city in which the simpsons live?,Springfield
+680,Q.In which modern country are the ports of Sidon and Tyer?,Lebanon
+681,Q.Who led the scottish soldiers at the Battle of Cambuskenneth?,William Wallace
+682,Q.Brisbane is the state capital of which SE Australian state?,Queensland
+683,Q.Carnivorous animals will not eat another animal that has been hit by a *********.,Lightning
+684,Q.On which of the Great Lakes does the city of Milwaukee lie?,Michigan
+685,Q.Omphalitis is an infection of what part of the body?,Navel
+686,Q.What is the name of the poker hand containing three of a kind and a pair?,Full house
+687,Q.What milk product did the US Agriculture Department propose as a substitute for meat in school lunches in 1996?,Yogurt
+688,Q.What is the name of the mountain pass which lies between Pakistan and Afghanistan?,Khyber Pass
+689,Q.What political system was gradually dismantled in South Africa starting in 1989?,Apartheid
+690,Q.What colour is the cap given to an England cricket player?,Blue
+691,Q.******* have 100 000 taste buds.,Catfish
+692,Q.The manufacture of what was prohibited in Russia between 1914-1925?,Vodka
+692,Q.In 1967 which US singer had a No.1 single with Respect?,Aretha Franklin
+693,Q.Which cartoon show included Thelma and Shaggy?,Scooby Doo
+694,Q.Who was unable to run the 200-meter final at the 1992 Olympics due to food poisoning?,Michael Johnson
+695,Q.The West Bank of which river has been occupied by Israel since 1967?,Jordan
+696,Q.Spanish military leader Rodrigo Diaz de Vivar is better known as?,El Cid
+697,Q.What did the ancient Greeks use instead of soap?,Olive Oil
+698,Q.******* make a chirping sound that is much like a bird's chirp or a dog's yelp.,Cheetahs
+699,Q.The writers of the communist manifesto in 1848?,Karl Marx and Friedrich Engels
+700,Q.Where would you find the Pensacola Mountains?,Antarctica
+701,Q.Who played the title role in the 1960 film Spartacus?,Kirk Douglas
+702,Q.Which athlete was protected by 7 security guards at the 1994 Winter olympics?,Nancy Kerrigan
+703,Q.Which 15th-century navigator discovered the sea route from Europe to India by the Cape of Good Hope?,Vasco de Gama
+704,Q.The only metal that is liquid at room temperature?,Mercury
+705,Q.Who sang the title song in the film 'Grease'?,Frankie Valli
+706,Q.Name of the 1st gorilla born in captivity?,Cojo
+707,Q.In Australia what type of animal is known as a brumby?,Wild horse
+708,Q.Who invented the game of volleyball?,William Morgan
+709,Q.Who invented the game of basketball?,James Naismith
+710,Q.In what city can you find the clockwork orange orange railway system?,Glasgow
+711,Q.Which animal provides the blood for black pudding?,Pig
+712,Q.What retail chain ignited a retro swing craze with ads depicting Khaki-clad dancing hep-cats?,Gap
+713,Q.What did Burma change its name to in 1989?,Myanmar
+714,Q.Mineral deposits in caves that grows upwards?,Stalagmite
+715,Q.What real person has been portrayed the most films?,Napoleon Bonaparte
+716,Q.In greek mythology who is Autolycus's father?,Hermes
+717,Q.What animal was killed in the berlin zoo during the world war 2 berlin bombing?,Elephant
+718,Q.The 'Hogarth' or 'S Shape' is an arrangement of what?,Flowers
+719,Q.Which racecourse was established by Queen Anne in 1711?,Ascot
+720,Q.What was the last UK no.1 for the super group Abba?,Super Trooper
+721,Q.Whose death did many believe was payback for the murder of Tupac?,Notorious Big
+722,Q.Beside which river are the Indian cities of Delhi and Agra?,Jumna
+723,Q.Where can you find the nazca lines?,Peru
+724,Q.What three colours make up the romaniam flag?,Blue yellow red
+725,Q.A speleologist studies what?,Caves
+726,Q.Which country has the highest population of Buddhists?,Thailand
+727,Q.the second full moon in a calendar month?,Blue moon
+728,Q.Which of Henry VIII 's wives held the title of Marchioness of Pembroke?,Anne Boleyn
+729,Q.A collector of rare books?,Bibliophile
+730,Q.Whose final words were "It hurts"?,Charles de Gaulle
+731,Q.What is the edible sea snail of the genus Haliotis?,Abalone
+732,Q.On which island is the main base of the French foreign legion?,Corsica
+733,Q.A poem written to celebrate a wedding is called?,epithalamium
+734,Q.Golden Rain is the common name of what tree?,Laburnum
+735,Q.What was the tribe of ancient Britons of Eastern England whose queen was Boudica?,Iceni
+736,Q.What natural phenomenon is measured on the torro scale?,Tornados
+737,Q.the science that deals with the motion of projectiles?,Ballistics
+738,Q.'Pine Eyes' is the literal translation of wc character's name?,Pinocchio
+739,Q.African antelope whose male of the species have lyre-shaped horns?,Impala
+740,Q.Which part of the body consumes 40 percent of the bloodaE?s oxygen?,Brain 
+741,Q.'Cannibalism'--eating human flesh is also called?,Anthropophagy
+742,Q.What unusual flavour did the Jell-O in 1942?,Cola
+743,Q.The River Amazon flows into which ocean?,Atlantic
+744,Q.In which sport would you use a kote and a hakama?,Kendo
+745,Q.The rastafarian word for god?,Jah
+746,Q.Cyrene is a region of which african country?,Libya
+747,Q.Which city hosted the 2007 world athletics championship?,Osaka
+748,Q.The fruit in tarte atin?,apple
+749,Q.Framework for a well drilling machinery?,Derrick
+750,Q.Basketball-netball hybrid game for mixed male & female teams?,Korfball
+751,Q.What type of creature is a bleak?,Fish
+752,Q.US state which Madison is the capital?,Wisconsin
+753,Q.The John Rylands library is in which english city?,Manchester
+754,Q.Medical term for involuntary habitual grinding of teeth?,Bruxism
+755,Q.Cilantro is the leaf of which herb?,Coriander
+756,Q.Italian dessert of made of whipped 'eggyolks' 'sugar' and 'marsala wine'?,zabbaglione
+757,Q.The 2nd smallest US state?,Delaware
+758,Q.A cut of meat from the chest part of an animal?,brisket
+759,Q.Which spice comes from the rhizome of the zingaber officionale?,ginger
+760,Q.Plew is a term for the pelt of which animal?,beaver
+761,Q.Evo morales became president of which country in 2006?,Bolivia
+762,Q.Sfumato is a technique in what type of art?,painting
+763,Q.The eldest son of Queen Victoria?,Edward 8
+764,Q.'Homogonized' 'kwila' 'acidophilus' and 'kefir' are all types of what?,milk
+765,Q.An alloy and chemical compound of 'aluminum' 'nickel' and 'cobalt' that used in magnets?,alnico
+766,Q.Which past leader of Russia died in April 2007?,Boris Yeltsin
+767,Q.Contest fought between medieval knights with lances on horseback?,joust
+768,Q.Whose video called 'falling down' was banned on tv?,Duran Duran
+769,Q.Full name of Al Gore?,Albert Arnold Gore Jr
+770,Q.A type of low fat curd cheese?,quark
+771,Q.Soft round-topped hat worn by men in pakistan?,pakul
+772,Q.Ed Stafford became the 1st person to walk the entire length of what river?,Amazon
+773,Q.Samise is a type of what?,fabric
+774,Q.On which island was Nelson Mandela incarcerated for 27 yrs?,Robben Island
+775,Q.Who founded the Jehova's witness in 1872?,Charles Taze
+776,Q.If something is bacilliform what shape is it?,Rod-shaped
+777,Q.Which country won the 2007 FIFA women's world cup?,Germany
+778,Q.Cristina Kirchner became the 1st elected President of which country?,Argentina
+779,Q.A maker of arrows?,fletcher
+780,Q.Mefloquine is used for the treatment of what?,malaria
+781,Q.The study of sexual stimuli & behavior?,erotology
+782,Q.Which 2007 convicted celebrity drunkard was nicknamed lilo?,Lindsay Lohan
+783,Q.The white part of the human eye?,sclera
+784,Q.The 12th letter of the greek alphabet?,mu
+785,Q.What film won the 2007 academy award for best picture?,The Departed
+786,Q.The 2 founders of Skype?,Niklas Zennstrom and Janus Friis
+787,Q.Which rapper cancelled his UK tour when refused entry to the country?,Snoop Dogg
+788,Q.What video game was banned in 2007 for its unremitting bleakness and callousness?,Manhunt 2
+789,Q.Author of 'the god delusion'?,Richard Dawkins
+790,Q.What type of crop is a burley?,tobacco
+791,Q.He painted the Battle of Trafalgar?,Joseph Turner
+792,Q.Which country won the 2007 eurovision song contest?,Serbia
+793,Q.Which 2 countries joined the european union(EU) on 1st january 2007?,Romania and Bulgaria
+794,Q.The 2007 F1 world driver's champion?,Kimi Raikkonen
+795,Q.Chemical element with atomic number 53?,Iodine
+796,Q.Zoot-suited jazz musician who died in july 2007?,George Melly
+797,Q.Children's tv program featuring Prof. Yaffle?,bagpuss
+798,Q.The heroic baggage handler at the attempted glasgow airport car bombing?,John Smeaton
+799,Q.A hot spring which shoots out boiling water and steam?,geyser
+800,Q.He made the highly critical documentary 'sicko'?,Michael Moore
+801,Q.Roman goddess of the hearth?,vesta
+802,Q.The battle also known as 'custer's last stand'?,Battle of the Little Big Horn 
+803,Q.A round cake given at christenings of sicilian tradition?,buccellato
+804,Q.1st japanese woman to play in US professional baseball league?,Eri Yoshida
+805,Q.The study of rocks?,petrography
+806,Q.Bess wallace was the wife of which US President?,Harry Truman 
+807,Q.Traditional British measurement equaling to 8 stone?,hundredweight
+808,Q.Circular collapsible tent of pelt or skins used by mongolian nomads?,yurt
+809,Q.What type of vegetable is a mooli?,radish
+810,Q.1st monarch of the house of tudor?,Henry 7
+811,Q.Capital of Latvia?,Riga
+812,Q.Medical term for whooping cough?,pertussis
+813,Q.Abhorson is an executioner in which shakespeare play?,measure for measure 
+814,Q.The right side of an open book?,recto 
+815,Q.What is the main ingredient of the Italian fish fritatta?,egg
+816,Q.Alexander the Great's famous horse?,bucephalus
+817,Q.An ornamental cloth used to cover horses?,caparison
+818,Q.What is a smythson daphne?,bag 
+819,Q.Something annular is in what shape?,ring 
+820,Q.Which English Royal House held the throne between 1154 and 1485?,plantagenet
+821,Q.The rockall trough is in which Ocean?,Atlantic
+822,Q.A hide is a nest of which type of bird?,pheasant 
+823,Q.In which country was escapologist Harry Houdini born?,Hungary 
+824,Q.Term for the visible trace of an earlier painting beneath newer canvass?,pentimento
+825,Q.Offspring of a male horse and a female donkey?,hinny
+826,Q.What NBA team became the 1st to defeat the Celtics in 12 straight games?,New York Knicks
+827,Q.Who did Celine Dion support in his Canadian tour in 1991?,Michael Bolton
+828,Q.In King Lear --who poisons her Sister Regan?,Goneril
+829,Q.Napoleon kept Louis XVIII out of power for how many days?,100
+830,Q.A shawl worn by many South American women?,rebozo
+831,Q.Egyptians believed their gods brought this fabric with them to wear on earth?,linen
+832,Q.This US state was the setting for Edna Ferber's ice palace?,Alaska
+833,Q.South Carolina's flag has a blue field with this state tree in the center?,palmetto
+834,Q.Despised title King whose mother is Elinor of Equitaine?,King John
+835,Q.Napoleon assembled the grande armee in Boulogne threatening to invade this country?,England
+836,Q.Minimum numbers of notes in a chord?,3
+837,Q.In which US state you can find the Black Warrior National Forest?,Alabama
+838,Q.Canada's largest lake?,Great Bear Lake 
+839,Q.A glassy form of fossil fuel?,coal 
+840,Q.The Galapagos Islands are a provincial territory of which South American country?,Ecuador
+841,Q.Which Gilbert and Sullivan operetta is sub-titled The Slave of Duty?,The Pirates of Penzance
+842,Q.What is a baby oyster called?,Spat
+843,Q.What is Bill Clinton's middle name?,Jefferson
+844,Q.In which country are the sutherland falls?,New zealand
+845,Q.What is the largest flat fish species?,Halibut
+846,Q.Apart from a battle what did Nelson lose at Tenerife in 1797?,Right arm
+847,Q.Who wrote The Railway Children?,Edith Nasbit
+848,Q.An ornamental strap used on military uniforms?,epaulette
+849,Q.This Southeast US state's official seal depicts an indian girl strewing flowers?,Florida
+850,Q.Number of flags on the stem of a 16th note?,2
+851,Q.Greek word for sovereign or tyrant?,tyrone
+852,Q.At *** carats --India's fine blue star sapphire was the largest in the world?,563
+853,Q.Palindromic name thats also a verb meaning to move up & down like a cork in water?,bob
+854,Q.Measuring 15 yards --it is the major line between Pakistan & Afghanistan?,khyber pass
+855,Q.A popular diamond setting introduced by Louis Comfort's father in 1870?,Tiffany setting
+856,Q.Name of Napoleon's parents?,Carlo and Letizia
+857,Q.Number of strings on a mandolin?,8
+858,Q.Who said: 'i come to bury this man not to praise him'?,Marc Anthony
+859,Q.Oysters are placed in a wire cages to protect them while making this?,pearls
+860,Q.San Marino was founded by a stonecutter named?,Marinus
+861,Q.Named for a Russian czar --one of the birthstones worn by people born in June?,Alexandrite
+862,Q.Topsy appeared in this 1852 novel by Harriet Beecher Stowe?,Uncle Tom's Cabin
+863,Q.Socks whose pattern is derived from the tartan of the Campbell clan of Western Scotland?,argyle
+864,Q.This name has been associated with both Robinson Crusoe & Bill Gannon?,Friday
+865,Q.A cotton destroyer also known as snout beetle?,boll weevil
+866,Q.The great barber of Seville?,Figaro
+867,Q.It was Jack Dawkins nickname in Oliver twist?,Artful Dodger
+868,Q.What type of creature is a haistreak?,butterfly 
+869,Q.Henry Purcell --court composer for William III was buried in this church?,Westminster Abbey
+870,Q.Western superstar who declined the lead role of gunsmoke?,John Wayne
+871,Q.In Texas and Oklahoma --roundups are held to get rid of these snakes?,rattlesnakes
+872,Q.It extends 50.71 miles from Limon Bay to Pacific Ocean?,Panama Canal
+873,Q.She helped Jason and the Arganauts to get the golden fleece?,Medea
+874,Q.3 days before her execution as a spy --she wrote to Pres. Eisenhower asking for clemency?,Ethel Rosenberg
+875,Q.Chiron was the greatest of there creatures?,centaur
+876,Q.How many daughters does Nefertiti have?,6
+877,Q.In hebrew --this word means fit;as in fit to be eaten?,kosher
+878,Q.Witch goddess who turned Ulysses's men into swine?,Circe
+879,Q.US delegates signed this organizations chapter on 26th June 1945?,UN
+880,Q.The Greek word nema means?,thread
+881,Q.The holy day of the week in the 7th day Adventist church?,Saturday
+882,Q.In their adolescents these salamanders are called efts?,newts
+883,Q.Every good moslems is expected to make of these pilgrimages to mecca once in his life?,hajj
+884,Q.Group of mercinaries that protects the Pope?,Swiss Guards
+885,Q.He was a fencing instructor before joining the 'A team'?,George Peppard
+886,Q.The top secret study of US involvement in Vietnam published by the New York Times in 1971?,Pentagon papers
+887,Q.Horned toads isn't really a toad but is one of these creatures?,lizards
+888,Q.George Forgie made the girls cry by doing this to them?,kissing
+889,Q.The war between Britain and this country over the falklands ran from April-June of 1982?,Argentina
+890,Q.In 60's --this former head designer of dior introduced the scot suit to high fashion?,Yves Saint Laurent
+891,Q.Electrons or ions that are not moving?,static electricity
+892,Q.King of Sparta and husband of Helen of Troy?,Menelaus
+893,Q.Napoleon died on this island?,St. Helena
+894,Q.Number of different letters to denote notes?,7
+895,Q.Frances Perkins was the 1st woman to hold what position in the US cabinet?,Secretary of Labor
+896,Q.An organ of touch for cats?,whiskers
+897,Q.Where can you find the city of Genoa?,Italy
+898,Q.Which composer wrote The Water music?,Handel
+899,Q.What is Lucy's last name in peanuts?,Van Pelt
+900,Q.When British film companies buy a product called Kensington Gore what are they purchasing?,Artificial blood
+901,Q.The novelist who dreamed up the tv series ER?,Michael Crichton
+902,Q.The French call it Pas de Calais what do the English call it?,Strait of Dover
+903,Q.What cult movie spoof rock band reunited at Glastonbury 2009?,Spinal Tap
+904,Q.Which gas is manufactured by the Haber process?,Ammonia
+905,Q.In Paris what are 'FD Roosevelt'  'Stalingrad' and 'Louis Blanc'?,Metro Stations
+906,Q.What was New York's magazine Broadside concerned with?,Folk music
+907,Q.Where was William Kellogg working when he decided to sell cornflakes?,Hospital
+908,Q.What outfit --after investing 20 years and $20 million-- stopped using psychics to gather info?,CIA
+909,Q.What country is nearest to the North Pole?,Greenland
+910,Q.What search engine did Microsoft launch in 2009?,Bing.com
+911,Q.If a woman is nubile what does it mean?,Marriageable
+912,Q.What is a chuckwalla?,Lizard
+913,Q.Name of the Royal Palace in Hawaii?,Iolani
+914,Q.From what country were the nationalists who tried to assassinate Truman in 1950?,Puerto Rico
+915,Q.What's the first word of Richard Marx's right here waiting for you?,Oceans
+916,Q.Which motor company topped the Fortune 500 list in 1990?,General Motors
+917,Q.An isohel on a map joins place of equal what?,Sunshine
+918,Q.Which monarch's 500th anniv. of accession was featured on a 2009 commemorative 5Lira coin?,Henry VIII
+919,Q.Which wild west OutlawaE?s real name was Henry Patrick McCarty?,Billy the kid
+920,Q.In Greek mythology who rowed the dead across the river styx?,Charon
+921,Q.The first & only recipient of a Golden Globe Award for "Most Glamorous Actress"?,Zsa Zsa Gabor
+922,Q.Which First Lady had to give evidence over the Whitewater scandal?,Hillary Clinton
+923,Q.Amilcar Cabral International Airport is in what country?,Cape Verde
+924,Q.Waterfalls was a 90s No 1 hit single for which act?,TLC
+925,Q.What country is the home of the Ashanti people?,Ghana
+926,Q.The first Latino or hispanic to seat at US supreme court?,Sonia Sotomayor
+927,Q.What was the actual purpose of a gargoyle?,Water spout
+928,Q.In New York it is illegal to shoot what from a moving trolley car?,Rabbits
+929,Q.The first pharmaceutical drug in 1899?,Aspirin
+930,Q.Which country did Idi Amin go to when he fled Uganda?,Saudi Arabia
+931,Q.What is Calvin Klein's middle name?,Richard
+932,Q.Yitzhak Rabin was Prime Minister of which country when he was assassinated in 1995?,Israel
+933,Q.What country is known to its inhabitants as Suomen Tasavalta?,Finland
+934,Q.What successful Broadway musical written by Mel Brooks opened controversially in Berlin?,The Producers
+935,Q.What are you doing if you are tilthing?,Cultivating
+936,Q.What tree is only mentioned once in the bible?,Poplar
+937,Q.Until his death in 1969 --Brian Jones was in which pop band?,The Rolling Stones
+938,Q.The world's tallest what was built at Duquoin State Fairground in Illinois in Sept 1998?,Sand castle
+939,Q.Which former Soviet Communist Party newspaper was re-launched as a tabloid in 1996?,Pravda
+940,Q.Where would you find a walloon?,Belgium
+941,Q.What newspaper first exposed the UK parliamentary expenses scandal?,Daily Telegraph
+942,Q.In a famous Dickens novel who was helped financially by Abel magwitch?,Pip
+943,Q.What links 'Vespasian' 'Titus'  'Domitian' and 'Nerva'?,Rulers of the Roman Empire
+944,Q.The patron saint of dentists?,St. Apollonia
+945,Q.Who was head of the political wing of the Vietcong in the mid 60's?,Nguyenh Huu Tho
+946,Q.Which country's invasion of Ethiopia in 1935 forced Haile Selassie to flee?,Italy
+947,Q.The World's biggest what was made at Utica in New York in January 1998?,Jam doughnut
+948,Q.What is the worlds largest sand island northeast of Brisbane?,Fraser Island
+949,Q.In 2009 campaigners in Barcelona heightened demands to clean up what famous avenue?,Las Ramblas
+950,Q.Who was the father of king David?,Jesse
+951,Q.Archaeopteryx was the first what?,Bird
+952,Q.Evard Ericksen sculpted this statue which is located at Copenhagen Harbor?,The Little Mermaid
+953,Q.What was the code name of the build-up to action in Iraq?,Operation Desert Shield
+954,Q.Who wrote the novel The Left Hand Of darkness?,Ursula Le Guin
+955,Q.Which mountain range to the west of Sydney was badly damaged by bush fires in 1993?,Blue Mountains
+956,Q.What world capital city is heated by volcanic springs?,Reykjavik
+957,Q.Former US Secretary of State returned to academia in 2009 to teach political science at Stanford University?,Condoleeza Rice
+958,Q.What name is given to the metal discs in the rim of a tambourine?,Jingles
+959,Q.Who was Agrippa's son?,Nero
+960,Q.The Statue of Liberty arrived in New York City in 1885 aboard the French ship named?,Isere
+961,Q.Some Chinese believe that swinging the arms cures what?,Headache
+962,Q.The African ***** *** spends 17 years sleeping --then wakes up for two weeks-- mates and then die?,Cicada fly
+963,Q.This item was originally used as a medicinal treatment for female hysteria during the 19th century?,Vibrator
+964,Q.The declaration of independence was written on what kind of paper?,Hemp
+965,Q.The heart of these creature is located on its head?,Shrimp
+966,Q.Your foot is the same length as your?,Forearm
+967,Q.In Victorian times --prostitutes wore wigs made from what?,Pubic hairs
+968,Q.Before toilet paper was invented French royalty wiped their bottoms with what?,Fine linen
+969,Q.'Jedi' is an official religion in what country?,Australia
+970,Q.People who chase after rare birds are called?,Twitchers
+971,Q.The smallest number that can be divided from 1-10 without having remainder?,2520
+972,Q.The German counter part of Coca Cola?,Fanta
+973,Q.On which river was the Tarbela dam built?,Indus 
+974,Q.Title of trump's book found at Angelo Reyes's suicide scene?,The Art of the Deal
+975,Q.Which brand had to apologize for a logo said to be like the Arabic for Allah?,Nike
+976,Q.What creature's fossilized leg bone did John Horner discover red blood cells in 1993?,T-rex
+977,Q.What is the only French speaking republic in Americas?,Haiti
+978,Q.The Algonquin Indians believed the earth was on what?,Giant tortoise
+979,Q.Who was nominated for the best actress Oscar in the film Doubt?,Meryl Streep
+980,Q.In Gaelic legend who had a dog named bran?,Fingal
+981,Q.Treifa foods are forbidden to which religious group?,Jews-opposite of kosher
+982,Q.How many U.S. states border the Gulf of mexico?,5
+983,Q.In which country is the Angostura bridge?,Venezuela
+984,Q.For which 1990 film did Bruce Joel Rubin win Best Screenplay Oscar?,Ghost
+985,Q.What kind of animal is Jormangard in Norse mythology?,Serpent
+986,Q.Which company began a hostile takeover bid for Cadbury in September 2009?,Kraft
+987,Q.Who played Eliza Doolittle in the stage version of MY Fair Lady?,Julie Andrews
+988,Q.What is the name of Moses and Aaron's sister?,Miriam
+989,Q.Eggplant is a member of what plant family?,Thistle
+990,Q.The 1st Philippine city?,Cebu
+991,Q.What is the world's 2nd deepest trench?,Tonga trench
+992,Q.The longest word in the English language with all the letters in alphabetical order?,Almost
+993,Q.What's the ballet term for a 360-degree turn on one foot?,Pirouette
+994,Q.Which criminal was set up by the Lady in Red?,John Dillinger
+995,Q.Which airline owned the plane which crashed off Nova Scotia in 1998?,Swiss Air
+996,Q.The giant Kvasir in Norse mythology has what power?,Wisdom
+997,Q.The British submarine which collided with the French submarine Le Triomphant in February 2009?,HMS Vanguard
+998,Q.What are Ossicles and Osselets?,Bones
+999,Q.'Soling' 'Star' and 'Finn' are categories in which sport?,Yachting
+1000,Q.Which device allows a cars driving wheels to turn at different speeds when cornering?,Differential
+1001,Q.What was the name of Abraham Lincoln's dog stabbed to death?,Fido
+1002,Q.What flower is the symbol of secrecy?,Rose
+1003,Q.What are you eating if you are served Fieldlane duck?,Sheep's head
+1004,Q.Who sailed on a ship called 'Queen Ann's Revenge'?,Blackbeard
+1005,Q.Who --after anchoring off Hawaii in 1779 was mistaken for the god Lono?,James Cook
+1006,Q. What does a lepidopterist collect?,Butterflies or moths
+1007,Q.What acid is associated with muscles in the body experiencing lack of oxygen?,Lactic
+1008,Q.Discovered in the 30's --Jonker and President Vargas were types of what?,Diamond
+1009,Q.Where is Rock English spoken?,Gibraltar
+1010,Q.Who did Michael Jackson marry in May 1994?,Lisa Marie Presley
+1011,Q.Lack of Vitamin B1 causes what condition?,Beri-beri
+1012,Q.What is the Southern India savoury steamed cake made of rice and served with chutney?,Idli
+1013,Q.In which country were paperclips invented?,Norway
+1014,Q.In North Dakota --if you are in a covered wagon you can legally do what?,Shoot Mounted Indians
+1015,Q.The plain black dickey worn with a clerical collar by some clergymen is called?,Rabat
+1016,Q.The female name Vanessa is Greek word for?,Butterfly
+1017,Q.Rulership by words is called?,Logocracy
+1018,Q.In 1960 which country had the first ever woman prime minister?,Sri Lanka
+1019,Q.What is Fidel Castro's real first name?,Ruz
+1020,Q.Where in the world is there a place called Disko Island?,Greenland
+1021,Q.Which English model became the face of L'Oreal in 1998?,Kate Moss
+1022,Q.What has a palimped got?,Webbed feet
+1023,Q.What is the code of silence which prohibits speaking about criminal activities used by the mafia?,Omerta
+1024,Q.Where in your body would you find your uvula?,Mouth
+1025,Q.In 1901 which brand of car was seen for the first time?,Mercedes
+1026,Q.In Australian slang --to be aEssplicedaEt means what?,To be married
+1027,Q.Nephritis is the inflamation of which part of the body?,Kidneys
+1028,Q.Who wrote that the female of the species is more deadly that the male?,Rudyard Kipling
+1029,Q.For which 1990's movie did Sigourney Weaver shave her head?,Alien 3
+1030,Q.A Myologist studies what?,Muscles
+1031,Q.What is a three-dimensional figure with eight plane faces?,Octohedron
+1032,Q.What National holiday was first celebrated in England in 1974?,New Year
+1033,Q.In 1974 Somalia created it's first ever what?,Written language
+1034,Q.A noun meaning a course of action or a diplomatic representation of protest?,Demarche
+1035,Q.Who wrote the novel 'Treasure Island'?,Robert Louis Stevenson
+1036,Q.Jeffrey Hunter was the lead in the original pilot for which successful series?,Star Trek
+1037,Q.Which great thinker proved a lunar eclipse is the circular shadow of the earth on the moon?,Aristotle
+1038,Q.In which 1998 film did Anderson & Duchovny reprise their TV roles of Mulder & Scully?,The X-files
+1039,Q.Where on the human body is the skin the thinnest?,Eye
+1040,Q.On which part of the body would you wear mukluks?,Feet
+1041,Q.What is the correct name for food permitted under Moslem laws?,Halal
+1042,Q.A noun meaning an excessive use of words?,Logorrhea
+1043,Q.What flavour is the liqueur cassis?,Blackcurrant
+1044,Q.What were ladies asked not to wear at Prince Edward's UK wedding?,Hats
+1045,Q.What is the longest strait in the world?,Strait of Malacca
+1046,Q.Who had a 1994 No.1 with 'I Swear'?,All 4 One
+1047,Q.What was Alka-Seltzer first marketed as?,Cold Cure
+1048,Q.How did Christine Jorgensen make medical history in 1952?,The first sex-change operation
+1049,Q.Lycopersicum esculentum is what common food?,Tomato
+1050,Q.The pointed tool used by gardeners to make holes in the soil for seeds is called?,Dibble
+1051,Q.In Elizabethan slang the term "to die" meant to have what?,An orgasm
+1052,Q.What product was the first to appear in a UK TV commercial in 1955?,Toothpaste
+1053,Q.What convenience food did Joel Cheek developed?,Instant coffee
+1054,Q.In what country is the most remote weather station in the world located?,Canada
+1055,Q.In 1995 astronaut Michael Foale was the first Briton to do what?,Space walk
+1056,Q.What would be happening if you suffered from canitis?,Greying of hair
+1057,Q.What is the inner and larger of the two bones in the human forearm?,Ulna
+1058,Q.Which well-known Frenchman designed the flag of Italy?,Napoleon Bonaparte
+1059,Q.What do the quarters of a hot cross bun symbolise?,4 reasons
+1060,Q.Campus is a latin word which means?,Field
+1061,Q.What does an acrophobic fear?,Heights
+1062,Q.Which controversial book by Lady Chatterley has the line "You can't ravish a tin of contained sardines"?,Lover
+1063,Q.What is the favorite food of the giant panda?,Bamboo shoots
+1064,Q.In which 1999 film did Sean Connery star with Catherine Zeta Jones?,Entrapment
+1065,Q.What does an otologist study?,Ears and its diseases
+1066,Q.What food has the varieties 'Elstar' 'Almata' and 'Cortland'?,Apple
+1067,Q.What is craved by phagomaniacs?,Food
+1068,Q.What did Britain swap Havana for with Spain in 1763?,Florida
+1069,Q.The word galaxy comes from the greek word galacticos which means?,Milk
+1070,Q.What is the capital of Peru?,Lima
+1071,Q.Which capital city has the fewest cinemas in relation to its population?,Cairo
+1072,Q.Which writer said "Where large sums of money are involved it is advisable to trust nobody"?,Agatha Christie
+1073,Q.What leaves does a silkworm prefer to eat?,Mulberry
+1074,Q.Which British golfer regained the US masters in 1996?,Nick Faldo
+1075,Q.What type of animal is a markhor?,Wild goat
+1076,Q.What is the scarlet banner of Saint Dennis used by early French kings when setting out for war?,Oriflamme
+1077,Q.In France this bird is called a Rouge gorge. What is it called in Britain?,Robin
+1078,Q.In greek myth the leader of the cyclops?,Polyphemus
+1079,Q.This roman word means kissing between lovers?,Suavium
+1080,Q.Which band released an album entitled "Wish You Were Here"?,Pink Floyd
+1081,Q.The name of the Italian cruise ship hijacked by Palestinian terrorists in October 1985?,Achille Lauro
+1082,Q.Which plant has flowers but no proper leaves?,Cactus
+1083,Q.Which 90's film of a Shakespeare play starred Leonardo DiCaprio and Claire Daines?,Romeo and Juliet
+1084,Q.What is the National Bird of India?,Peacock
+1085,Q.What is a dish sprinkled with breadcrumbs or grated cheese and browned?,Au Gratin
+1086,Q.Gamboges is a shade of what color?,Yellow
+1087,Q.German wine is made from mainly what grape?,Riesling
+1088,Q.The word paraffin is derived from the Greek words "parum" and "affinis" which translates to?,Barely connected
+1089,Q.Who is the Roman god of fire?,Vulcan
+1090,Q.In which Woody Allen movie did Madonna play a trapeze artist?,Shadows and Dog
+1091,Q.What kind of an animal is a marmoset?,Monkey
+1092,Q.Val Kilmer played Jim Morrison in the 1991 movie about which rock band?,The Doors
+1093,Q.What is the food of the secretary bird?,Snakes
+1094,Q.Before the Euro --what was the basic monetary unit of Portugal?,Escudo
+1095,Q.Danes --led by Ivar the Boneless captured which British town from the vikings in 867?,York
+1096,Q.What is the royal house of Monaco?,Grimaldi
+1097,Q.The russian equivalent of mister or mr. with the literal translation means lord?,Gospodin
+1098,Q.In which English country is the ancient monument Stonehenge?,Wiltshire
+1099,Q.What was Richard Gere's first movie?,Report to the commissioner
+1100,Q.What name is given to animals that eat both flesh and plant material?,Omnivores
+1101,Q.Which member of her staff did Celine Dion marry in 1994?,Manager Rene Angelil
+1102,Q.What bird is sacred in Peru?,Condor
+1103,Q.What is the play by Shakespeare featuring the Court Jester Touchstone?,As you like it
+1104,Q.What extinct creature got its name from the Portuguese word for stupid?,Dodo
+1105,Q.What does "Sheffield" "Edinburgh" and "Rome" have in common?,Built on 7 hills
+1106,Q.The latin phrase "de jure" means?,from the law
+1107,Q.Some time back the use of pet names was called?,Hypocorism
+1108,Q.What is the collective name for a group of beavers?,Colony
+1109,Q.What was the profession of Louis Henry Sullivan?,Architect
+1110,Q.Which species of decapod has varieties called "fiddler" "spider" and "hermit"?,Crab

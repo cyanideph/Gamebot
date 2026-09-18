@@ -1,0 +1,100 @@
+1,[c00 REBUS: [000 BILLED,ill in bed
+2,[c00 REBUS: [000 9S2A5F4E1T8Y6,safety in numbers
+3,[c00 REBUS: [000 WONALICEDERLAND,alice in wonderland
+4,[c00 REBUS: [000 thanks thanks thanks thanks thanks thanks thanks thanks ,thanks a lot
+5,[c00 REBUS: [000 <to0TH,toothpick
+6,[c00 REBUS: [000 FLUBADENCE,bad influence
+7,[c00 REBUS: [000 otwone,two in one
+8,[c00 REBUS: [000 elseveven,seven eleven
+9,[c00 REBUS: [000 stefranken,frankenstein
+10,[c00 REBUS: [000 sprinG summEr autumN winTer,a gent for all season
+11,[c00 REBUS: [000 SYMPHON ..,Unfinished Symphony
+12,[C00 MADGAB: [000 Watch choo ear nut washer tse,What you hear not what you say
+14,[C00 MADGAB: [000 Abe you team arc,A beauty mark
+15,[C00 MADGAB: [000 Bat Tree Snot Ink Looted,Batteries not included
+16,[C00 MADGAB: [000 Bowl Egg Head,Bow legged
+17,[C00 MADGAB: [000 Cohen Peas,Go in Peace
+18,[C00 MADGAB: [000 Delete Elmer Made,The little mermaid
+19,[C00 MADGAB: [000 Fur Chin Ollie Foil,Virgin Olive Oil
+20,[C00 MADGAB: [000 Hide Hen Tickled Wins,Identical Twins
+21,[C00 MADGAB: [000 Hype People Earth Duh Hey,Happy Birthday
+22,[C00 MADGAB: [000 Isle Of View,I love you
+23,[C00 MADGAB: [000 It Chief Heat,Itchy feet
+25,[C00 MADGAB: [000 Loaf Meat Hender,love me tender
+24,[C00 MADGAB: [000 Jog Clay Die Scream,Chocolate Ice Cream
+24m,[C00 MADGAB: [000 Know Ozark,Noah's Ark
+25,[C00 MADGAB: [000 Loaf Meat Hender,love me tender
+26,[C00 MADGAB: [000 My Kojak Sun,michael jackson
+27,[C00 MADGAB: [000 Noose Raid He Owe,News Radio
+28,[C00 MADGAB: [000 Pea Sank White,Peace and Quiet
+29,[C00 MADGAB: [000 Pie Rate Softy Care Hip Been,Pirates of the Carribean
+30,[C00 MADGAB: [000 Sand Tack Laws,santa claus
+31,[C00 MADGAB: [000 Sex Yule Hair Is Mint,sexual harrassment
+32,[C00 MADGAB: [000 Space You'll Limp Picks,Special Olympics
+33,[C00 MADGAB: [000 Thigh Sing Gone Thick Ache,The Icing on The Cake
+34,[C00 MADGAB: [000 Tis Coal Eighty,Disco Lady
+35,[C00 MADGAB: [000 Us Her Fair,a surveyor
+36,[C00 MADGAB: [000 William Harem He,Will You Marry Me
+37,[C00 MADGAB: [000 Wok Lie Canny Chip Shun,Walk like an Egyptian
+38,[C00 MADGAB: [000 Rib Uncut Inks Harem Owe Knee,Ribbon cutting ceremony
+39,[C00 MADGAB: [000 Law Duff There Inks,Lord of the Rings
+40,[C00 MADGAB: [000 Ladle Rat Rotten Hut,little Red Riding Hood
+41,[C00 MADGAB: [000 hint a few width diva umpire,Interview with a vampire
+42,[C00 MADGAB: [000 Ask Rude Arrive Her,a screwdriver
+43,[C00 MADGAB: [000 Europe Lay Sore Mine?,Your place or mine?
+44,[C00 MADGAB: [000 Duet Tomb He Juan Mort I'm,Do It To Me One More Time
+45,[C00 MADGAB: [000 Freeze Age Ha! Leak Hood Fell Owe,For he's a jolly good fellow
+46,[C00 MADGAB: [000 These If Hill Wore,The Civil War
+47,[C00 MADGAB: [000 Whole League How,Holy cow
+48,[C00 HIDDEN WORD GAME: [000 It seems she went mad on national television.,MADONNA
+49,[C00 HIDDEN WORD GAME: [000 He always seems to remark at Ewin's letters.,KATE WINSLET
+50,[C00 HIDDEN WORD GAME: [000 According to the cantor I am ostentatiously dramatic.,TORI AMOS
+51,[C00 HIDDEN WORD GAME: [000 A bird found on the crowded beach.,crow
+52,[C00 HIDDEN WORD GAME: [000 a floor covering found in bruges,RUG
+53,[C00 HIDDEN WORD GAME: [000 My cousin rachel is a continuous dull pain.,ache
+54,[C00 HIDDEN WORD GAME: [000 President Bush welcomed all of the visiting Washington guests at the White House reception.,tongues
+55,[C00 HIDDEN WORD GAME: [000 The team manager will farm out his inexperienced players to the team's minor league affiliate.,MOUTH
+56,[C00 HIDDEN WORD GAME: [000 The Lone Ranger got on Silver and rode quickly to save the unprotected pioneer family.,tonsil
+57,[C00 HIDDEN WORD GAME: [000 A petty thief in Germany would be subject to any of several stringent punishments.,FINGERS
+58,[C00 HIDDEN WORD GAME: [000 If you give the money to Ena I'll bet she will spend it in a matter of moments.,toenail
+59,[C00 HIDDEN WORD GAME: [000 A store clerk needs enough change each morning to adequately serve his customers.,knee
+60,[C00 HIDDEN WORD GAME: [000 Watch carefully as Marcus gives Tom a challenging headlock to win the bout convincingly!,stomach
+61,[C00 HIDDEN WORD GAME: [000 Before you submit your final examination you really should erase any marginal notes you have made.,shoulder
+62,[C00 HIDDEN WORD GAME: [000 Of all American colleges Bryn Mawr is the one with the most attractive female students.,wrist
+63,[C00 HIDDEN WORD GAME: [000 Going against the obvious choice Earl obeyed his instincts and went the other way.,EARLOBE
+64,[C00 HIDDEN WORD GAME: [000 This breakfast item beggars belief.,EGG
+65,[C00 HIDDEN WORD GAME: [000 Are head teachers a continuous dull pain.,ACHE
+66,[C00 HIDDEN WORD GAME: [000 Footballer Wayne Rooney behaves like a Roman emperor.,NERO
+67,[C00 HIDDEN WORD GAME: [000 This pirate is angry.,IRATE
+68,[C00 HIDDEN WORD GAME: [000 Andromeda is located in Italy.,ROME
+69,[C00 HIDDEN WORD GAME: [000 Violent anger is a tragedy.,RAGE
+70,[C00 HIDDEN WORD GAME: [000 The small Asian citrus fruit receives compliments.,LIME
+71,[C00 HIDDEN WORD GAME: [000 A sequence in nurseries.,SERIES
+72,[C00 HIDDEN WORD GAME: [000 The penpusher is an official who shows people to their seats.,USHER
+73,[C00 HIDDEN WORD GAME: [000 This slender fish is fiddling the expenses.,LINGA
+74,[C00 HIDDEN WORD GAME: [000 close friend of Michael Schumacher.,CHUM
+75,[C00 HIDDEN WORD GAME: [000 Olivia De Havilland has a large luxurious country residence.,VILLA
+76,[C00 HIDDEN WORD GAME: [000 Pharmaceutical spice.,MACE
+77,[C00 HIDDEN WORD GAME: [000 This clergyman was seen with the film director.,RECTOR
+78,[C00 HIDDEN WORD GAME: [000 Oskar Schindler rescues the four year old female red deer.,HIND
+79,[C00 HIDDEN WORD GAME: [000 Seville oranges are morally wrong and harmful.,EVIL
+80,[C00 HIDDEN WORD GAME: [000 Love is on the rocks for the principal male character in a play or story.,HERO
+81,[C00 HIDDEN WORD GAME: [000 The stiletto shoe crumbles the thin flat slab of baked clay.,TILE
+82,[C00 HIDDEN WORD GAME: [000 Could she be the wife of Hercules?,HEBE
+83,[C00 HIDDEN WORD GAME: [000 Edible nut from Cape Canaveral.,PECAN
+84,[C00 HIDDEN WORD GAME: [000 Fine china porcelain from Birmingham.,MINGA
+85,[C00 HIDDEN WORD GAME: [000 lfred Hitchcock thriller set in St Tropez.,ROPE
+86,[C00 HIDDEN WORD GAME: [000 I detest the French chateau.,HATE
+87,[C00 HIDDEN WORD GAME: [000 An ocean in the Antarctic.,ARCTIC
+88,[C00 HIDDEN WORD GAME: [000 A tranquil magical moment.,CALM
+89,[C00 HIDDEN WORD GAME: [000 This British port is bowled over.,DOVER
+90,[C00 HIDDEN WORD GAME: [000 The men who man a ship are found in the Hundred Acre Wood.,CREW
+91,[C00 HIDDEN WORD GAME: [000 Guaranteed to utter in bombastic tones.,RANT
+92,[C00 HIDDEN WORD GAME: [000 Shaquille O'Neal injures himself on the stiff spines of the porcupine.,QUILLE
+93,[C00 HIDDEN WORD GAME: [000 The hooked claw can be located in the Spanish region of Catalonia.,TALON
+94,[C00 HIDDEN WORD GAME: [000 A mineral when viewed through a digital camera.,TALC
+95,[C00 HIDDEN WORD GAME: [000 Four bishops are part of beach essentials for this game of skill.,CHESS
+96,[C00 HIDDEN WORD GAME: [000 Use telekinesis to find the Albanian monetary unit.,LEK
+97,[C00 HIDDEN WORD GAME: [000 A quarter of Paris contains platinum.,LATIN
+98,[C00 HIDDEN WORD GAME: [000 Michael Barrymore is located at this Mediterranean island.,ELBA
+99,[C00 HIDDEN WORD GAME: [000 The forename of American movie director Stewart Konigsberg is challenging.,ALLEN

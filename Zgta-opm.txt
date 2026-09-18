@@ -1,0 +1,552 @@
+1,Hawak Kamay,Yeng Constantino
+2,Hari Ng Sablay,Sugarfree
+3,Buloy,Parokya ni Edgar
+4,Miles Away,Slapshock
+5,Noypi,Bamboo
+6,Ligaya,Eraserheads
+7,Director's Cut,Kamikazee
+8,The Day You Said Goodnight,Hale
+9,Kisapmata,Rivermaya
+10,Ikaw Lamang,Silent Sanctuary
+11,Magbalik,Callalily
+12,Tuliro,Spongecola
+13,Di Na Mababawi,Spongecola
+14,Lando,Gloc9
+15,Order Taker,Parokya ni Edgar
+16,Ulan,Cueshe
+17,Blue Sky,Hale
+18,Hallelujah,Bamboo
+19,Tsinelas,Kamikazee
+20,Jeepney Love Story,Yeng Constantino
+21,Pare Ko,Eraserheads
+22,Guitara,Parokya ni Edgar
+23,Lando,Gloc9
+24,Alak Pa,Greyhoundz
+25,Estella,Silent Sanctuary
+26,Halik Ni Hudas,Wolfgang
+27,Walang Yamang Mas Hihigit Sa'yo,Cueshe
+28,Maghihintay Sayo,Jhake Vargas
+30,My Love Is Here,eric santos
+31,Simpleng tao,Gloc9
+32,Alapaap,Eraserheads
+33,Bring me down,Rivermaya
+34,Till my heartache ends,Ella Mae Saison
+35,Poorman's grave,Eraserheads
+36,Sana,Parokya ni Edgar
+37,peksman,Siakol
+38,Iingatan ka,Karol Banawa
+39,Pasulyap sulyap,Tootsie Guevarra
+40,Wag na wag mong sasabihin,Kitchie Nadal
+41,Mr.Cupido,Jolina Magdangal
+42,Nandito ako,Ogie Alcasid
+43,Bakit Ngayon,Ogie Alcasid
+44,Love Moves,Nina
+45,Pangako,Regine Velasquez
+46,TL ako sayo,Jolina Magdangal
+47,Baliw na puso,Rosell Nava
+48,Pagdating ng panahon,Aiza Seguerra
+49,Maging sino ka man,Sharon Cuneta
+50,Di na ako aasa pa,Introvoys
+51,Remember Me,Renz Verano
+52,Bituing walang Ningning,Faith Cuneta
+53,Isang Lahi,Regine Velasquez
+54,My Love is here,Eric Santos
+55,Kahit isang saglit,Martin Nievera
+56,Muli,Rodel Naval
+57,Lumayo ka mang sa akin,Rodel Naval
+58,We belong,Toni Gonzaga
+59,Up side down,6 Cyclemind
+60,Saan ka man naroroon,Zsa Zsa Padilla
+61,Ewan ko,Soap Dish
+62,I know,Yasmien Kurdi
+63,Ah doo doo doo,Willie Revillame
+64,Shooting Star,Vina Morales
+65,Umaasa,6 Cyclemind
+66,Alam mo ba,Vina Morales
+67,Manila,Hotdog
+68,Mabuti pa sila,Gary Granada
+69,Beautiful Girl,Jose Mari Chan
+70,The Way you look at me,Christian Bautista
+71,Buloy,Parokya ni Edgar
+72,Bagsakan,Parokya ni Edgar
+73,Oka tokat,Parokya ni Edgar
+74,Harana,Parokya ni Edgar
+75,Picha pie,Parokya ni Edgar
+76,Halaga,Parokya ni Edgar
+77,Inuman na,Parokya ni Edgar
+78,Swimming Beach,Parokya ni Edgar
+79,Sorry na,Parokya ni Edgar
+80,Mr.Suave,Parokya ni Edgar
+81,Yes Yes Show,Parokya ni Edgar
+82,Chikinini,Parokya ni Edgar
+83,Firt day Punk,Parokya ni Edgar
+84,Mang Jose,Parokya ni Edgar
+85,Para sayo,Parokya ni Edgar
+86,Papa Cologne,Parokya ni Edgar
+87,One & only you,Parokya ni Edgar
+88,Lutong bahay,Parokya ni Edgar
+89,Macho,Parokya ni Edgar
+90,Crying Time,Victor Wood
+91,Paper Roses,Victor Wood
+92,The Great Pretender,Victor Wood
+93,Chuva Chu Chu,Jolina Magdangal
+94,Kapag ako ay nagmahal,Jolina Magdangal
+95,Honey my love so sweet,April boy
+96,Paulit ulit,April boy
+97,Umiiyak ang puso,April boy
+98,Ye Ye Bonel,April boy
+99,I will be there,Kyla
+100,Because of you,Kyla
+101,Hanggang ngayon,Kyla
+102,Broken Sonnet,Hale
+103,The Day you said goodnight,Hale
+104,Kahit pa,Hale
+105,Kung wala ka,Hale
+106,Basta't kasama kita,Dingdong Avanzado
+107,Happy Kaarawan,Vhong Navarro
+108,Mr.Suave,Vhong Navarro
+109,Ayos na ang buto buto,Vhong Navarro
+110,Chickboy,Vhong Navarro
+111,Pamela,Vhong Navarro
+112,Totoy Bibo,Vhong Navarro
+113,Yugyugan na,Vhong Navarro
+114,My 1st Broken Heart,Iya Villania
+115,Lumang tugtugin,Apo Hiking Society
+116,Kahit sandali,Jennilyn Mercado
+117,Suntok sa buwan,APO Hiking Society
+118,Ewan,APO Hiking Society
+119,Kahit Maputi na ang Buhok ko,Rey Valera
+120,Blue Jeans,APO Hiking Society
+121,Anak,Freddie Aguilar
+122,Minsan lang kitang Iibigin,Ariel Rivera
+123,Halik,Aegis
+124,Shout for Joy,Gary Valenciano
+125,Natutulog ba ang Diyos,Gary Valeciano
+127,Sumayaw Sumunod,Gary Valenciano
+128,Mas Mahal na kita ngayon,Michael V.
+129,Humanap ka ng Panget,Andrew E.
+130,Modelong Charing,Blackjack
+131,Philippine Geography,Yoyoy Villame
+132,Bawat Bata,APO Hiking Society
+133,Kaibigan,APO Hiking Society
+134,Panalangin,APO Hiking Society
+135,Batangbata ka pa,APO Hiking Society
+136,Sana,Shamrock
+137,Pagkakataon,Shamrock
+138,Ngiti,Ronnie Liang
+139,Forever's not enough,Sarah Geronimo
+140,Sino nga ba sya?,Sarah Geronimo
+141,Muli,Bugoy Drilon
+142,Anak ng Pasig,Geneva Cruz
+143,Di lang ikaw,Juris
+149,Ikaw sana,Ogie Alcasid
+150,Hanggang ngayon,Ogie Alcasid
+151,Kung mawawala ka,Ogie Alcasid
+152,Wag ka lang mawawala,Ogie Alcasid
+153,Bakit ngayon ka lang,Ogie Alcasid
+154,Mahal kita walang iba,Ogie Alcasid
+155,Line to Heaven,Introvoys
+156,Next in Line,Wency Cornejo
+157,Kisapmata,Rivermaya
+158,Your love,Alamid
+159,Alipin,Shamrock
+160,1st day high,Kamikazee
+161,Halaga,Parokya ni Edgar
+162,Your song,Parokya ni Edgar
+163,Wag mo na sana,Parokya ni Edgar
+164,Action,Pat Castillo
+165,Ako ang nagwagi,Dulce
+166,Ako ay Pilipino,Kuh Ledesma
+167,Alone in the rain,Pops Fernandez
+168,Always,Marco Sison
+169,Isang Lahi,Regine Velasquez
+170,Pasubali,SpongeCola
+171,Ikaw,Sharon Cuneta
+172,Dragonfly,Spongecola
+173,Di bale na lang,Gary Valenciano
+174,Steep,Nina
+175,Salamat,Yeng Constantino
+176,Luha,Aegis
+177,214,Rivermaya
+178,Hold On,Shamrock
+179,Akap,Imago
+180,Borrowed Time,Cueshe
+181,Sana,Gaggong Rapper
+182,Bitiw,Spongecola
+183,Superhero,Rocksteddy
+184,Ambisyoso,Kamikazee
+185,Gitara,Parokya Ni Edgar
+186,Narda,Kamikazee
+187,Hanggang Tingin,kamikazee
+188,Hindo mo ba alam,Siakol
+189,Elmer,Gloc9
+190,Eman,Parokya Ni Edgar
+191,Pangako,Cueshe
+192,Tropa,Siakol
+193,Perpekto,Dong Abay
+194,Tuloy Pa Rin,Neocolors
+195,Dahil minamahal kita,Renz Verano
+196,Miss na Miss kita,Father and Sons
+197,Kasalanan ba,Men Oppose
+198,Ika'y Mahal pa rin,Rockstar
+198,Dahil Mahal Kita,Jovit Baldivino
+199,Promise Me,J Brothers
+200,Baka Mayroong Iba,Jerome Abalos
+201,Larawan Kupas,Jerome Abalos
+202,Tanging Sayo,Jerome Abalos
+203,Skin,Grin Department
+204,Otso pa,Grin Department
+205,Nandito Ako,Lea Salonga
+206,Buy 1 Take 1,Grin Department
+207,Torpedo,Eraserheads
+208,When I Meet You,Kc Conception
+209,Wag Kang Matakot,Eraserheads
+210,I Love You,Willie Rivellame
+211,Bakit Ka Iiyak,Jeremiah
+212,Nanghihinayang,Jeremiah
+213,I,6cyclemind
+214,Beer,Itchyworms
+215,Nobela,Join The Club
+216,Umaaraw Umuulan,Rivermaya
+217,Gunita,Spongecola
+218,Para Sa Masa,Eraserheads
+219,Ikaw Lamang,Silent Sanctuary
+220,Magpakailaman,Rocksteddy
+221,Balang Araw,Siakol
+222,Gabay,Siakol
+223,Habang Ang Lahat,Siakol
+224,Parting Time,Rockstar
+225,Haplos,Shamrock
+226,Paano,Jovit Baldivino
+227,Paano,Shamrock
+228,Sumayaw,Gloc9
+229,Stars,Callalily
+230,kasalanan,Orient Pearl
+231,Keep On Loving You,Renz Verano
+232,Kung Sakali,Ogie Alcasid
+233,Namumuro Ka Na,Lukas
+234,Pag-ibig ko sayo hindi magbabago,Men Oppose
+235,Ikaw Sana,Ogie Alcasid
+236,Takipsilim,Callalily
+237,Sanctuary,Callalily
+238,Yakap,Siakol
+239,Yakap,Callalily
+240,Pasan,Callalily
+241,Take My Hand,Callalily
+242,The Final Song,Callalily
+243,Jejemon,Blank Tape
+244,Chika Lang Yon,Blank Tape
+245,Lapit,Yeng Constantino
+246,Kung Ikaw,Lito Camo
+247,Nosi Balasi,Sampaguita
+248,Porque,Maldita
+249,Tambay,Spongecola
+250,Antukin,Rico Blanco
+251,Sabihin,Zelle
+252,Sana Kunin Ka na ni Lord,Pokwang
+253,Wag Na,Yeng Constantino
+254,Aaminin,6cyclemind
+255,Alapaap,Eraserheads
+256,Disney,Tanya Markova
+257,Nag-iisa,Frio
+258,Hiwaga,Siakol
+259,Gusto ko lamang sa buhay,Itchyworms
+260,Penge naman ako nyan,Itchyworms
+261,Linda Blair,Tanya Markova
+262,Pa Rodie Fernandez,Tanya Markova
+263,Pakiusap lang lasingin nyo ako,Parokya ni edgar
+264,Kapag Lasing Malambin,Mayonnaise
+265,If,Rivermaya
+266,Sandata,Shamrock
+267,Asahan Mo,Siakol
+268,Ituloy Mo Lang,Siakol
+269,Gawin Langit Ang Mundo,Siakol
+270,Kahit Maputi Na Ang Buhok ko,Soap Dish
+271,Upuan,Gloc9
+272,i Must be free,Salbakuta
+273,Patawarin mo,Repablikan
+274,Dumpsite,Dong Abay
+275,Cool Off,Yeng Constantino
+276,Bakit,Cueshe
+277,Stay,Cueshe
+278,Noypi,Bamboo
+279,Overdrive,Eraserheads
+280,Magbalik,Callalily
+281,Prolemang Puso,Jude Michael
+282,Iniibig Kita,Roel Cortez
+283,Sabihin Mo Lagi,Men Oppose
+284,Sana ay Magbalik,April Boy
+285,Sana'y Bigyan Mo Ng Pansin,J Brothers
+286,Sigaw Ng Puso,Father And Sons
+287,Sumpa Ko,Quamo
+288,Wala Pa Ring Iba,Rockstar
+289,Bakit,Rockstar
+290,Sana Pag-ibig Mo Ay Tunay Na,J Brothers
+291,Sana Ay Mahalin Mo Rin Ako,April Boy
+293,Sabi Mo Ako Lamang,Men Oppose
+294,Honey My love So Sweet,April Boy
+295,Walang Iwanan,6cyclemind
+296,Teka Lang,Siakol
+297,Sige,6cyclemind
+298,Sa Pag-ikot Ng Mundo,Siakol
+299,Alab Ng Puso,Rivermaya
+300,Maselang Bahaghari,Eraserheads
+301,Lagim,Siakol
+302,Christmas Single,Rocksteddy
+303,Aanhin,Siakol
+304,Banana,Blank Tape
+305,Ako'y Sayo At Ika'y Akin Lamang,True Faith
+306,Gisingin Ang Puso,Liezel Garcia
+307,Pangarap Lang Kita,Parokya ni Edgar
+308,Kahit Walang Sabihin,Rico Blanco
+309,TNT,Pupil
+310,Pera Pera,Sandwich
+311,Nang Dahil Sa Pag-Ibig,Bugoy Drilon
+312,Dont Tie Me Down,Kyla
+313,Fallin,Sarah Geronimo
+314,Larawan,Eevee
+315,Lagi Na Lang,Kiss Jane
+316,When i Hear You Call,Gary Valenciano
+317,I'll Be There,Sarah Geronimo
+318,I Dont Want To Fall,Juriz
+319,Hindi Na Bali,Bugoy Drilon
+320,Baka Sakali,Jay Jimenez
+321,Ambotsa,Rivermaya
+322,Munting Hiling,Hanna Flores
+323,Ikaw Pa Rin,Willie Revillame
+324,Ikaw Pa Rin,Juana
+325,Tumatakbo,Mojofly
+326,Torete,Moonstar 88
+327,To Love You More,Sarah Geronimo
+328,So Slow,Freestyle
+329,Senti,Yano
+330,Salawahan,Boyfriends
+331,O Babe,Jeremiah
+332,Nais Kong Malaman Mo,Boyfriends
+333,Naalala Ka,Sharon Cuneta
+334,Muntik Ng Maabot Ang Langit,True Faith
+335,Mula Sa Puso,Jude Michael
+336,Minamalas,Mojofly
+337,Kapag Ako Ay Nagmahal,Jolina Magdangal
+338,Ikaw,Regine Velasquez
+339,Hindi Magbabago,Randy Santiago
+340,First Love,Boyfriends
+341,Dahil Mahal Kita,Boyfriends
+342,Dahil Mahal Na Mahal Kita,Roselle Naval
+343,Before I Let You Go,Freestyle
+344,Bakit,Mayonnaise
+345,Pintig Ng Puso,Yasmin Kurdi
+346,Ngayong Wala Ka Na,Kyla
+347,Muli,Janno Gibbs
+348,Kailan Kaya,Michael V
+349,Mapagkunwari,Faith Cuneta
+350,Ikaw,Gerald Santos
+351,Alinlangan,Jolina Magdangal
+352,Huwag na Lang Kaya,True Faith
+353,Tuloy Pa Rin Ako,Side A
+354,Wag mo na sana,Parokya Ni Edgar
+355,Una,Excerpts
+356,Tsinelas,Yano
+357,Toyang,Eraserheads
+358,Talaga Naman,The Dawn
+359,Tag-Ulan,After Image
+360,Tag-Araw,After Image
+361,Tabing Ilog,Barbie's Cradle
+362,Salamat,The Dawn
+363,Paglisan,Color It Red
+364,Pare Ko,Eraserheads
+365,Na Naman,Color It Red
+366,May Pag-ibig Pa Kaya,South Border
+367,Mangarap Ka,After Image
+368,Long Hair,Weedd
+369,Laklak,The Teeth
+370,kay Sarap,The Boss
+371,Kailaman,Introvoys
+372,Iisang Bangka Tayo,The Dawn
+373,Ako Na Lang,1017
+374,Goodboy,Black Dyak
+375,Di Na Ko Aasa Pa,Introvoys
+376,Bilanggo,Rizal Underground
+377,Banal Na Aso Santong Kabayo,Yano
+378,Bakit ba?,Siakol
+379,Ambon,True Faith
+380,The Coconut Nut,Smokey Mountain
+381,Paraiso,Smokey Mountain
+382,Better World,Smokey Mountain
+383,Naririto Ako,Willie Revillame
+384,Kung Para Sayo,Willie Revillame
+385,I Love You,Willie Revillame
+386,One More Chance,Piolo Pascual
+387,Pilit,Hilera
+388,Sulat,Moonstar 88
+390,Pinoy Ako,Orange and Lemon
+391,Sakayan Ng Jeep,Nikki Gil
+392,Lunod,Danita Paner
+393,Dinamayan,6cyclemind
+394,Define,Hilera
+395,Ang Pag-Ibig Kong Ito,Moonstar 88
+396,Hanggang Kailan,Orange And Lemon
+397,I Never Knew Love,Lovi Poe
+398,Lagi Mo Na Lang Akong Dinedeadma,Rocksteddy
+399,Pano Nangyari Yon,Mayonnaise
+400,Pansinin Mo,Juana
+401,Biglaan,6 Cyclemind
+402,Kung Wala Na Nga,6 Cyclemind
+403,Kasalanan,6 Cyclemind ft. Gloc9
+404,Pakiusap,Acel
+405,One Love,Acel
+406,Everyday,Agot Isidro
+407,Cotabato,Asin
+408,Usok,Asin
+409,Pagbabalik,Asin
+410,Ang Buhay Ko,Asin
+411,Musika Ang Buhay,Asin
+412,Tuldok,Asin
+413,Bayan Kong Sinilangan,Asin
+414,Sana,Amy Nobleza
+415,Pakisabi Na Lang,Aiza Seguerra
+416,Far Away,Bamboo
+417,Kung Ako Na Lang Sana,Bituin Escalante
+418,Dahil Tanging Ikaw,Bugoy Drilon
+419,Ikaw Lang Mamahalin,Bugoy Drilon
+420,Pagkat Mahal Kita,Bugoy Drilon
+421,Sana'y Ibigin Mo,Bugoy Drilon
+422,Mara Clara,Carol Banawa
+423,Tanging Yaman,Carol Banawa
+424,Till My Heartaches End,Carol Banawa
+425,Pyramid,Charice Pempengco
+426,Somewhere,Charice Pempengco
+427,Reset,Charice Pempengco
+428,Always You,Charice Pempengco
+429,Tell Me Your Name,Christian Bautista
+430,Please Be Careful In My Heart,Christian Bautista
+431,Laging Ikaw,Christian Bautista
+432,Pasensya Na,Cueshe
+433,Minsan,Cueshe
+434,Minsan,Eraserheads
+435,Masaya Ako Sayo,Curse One
+436,Nabigha Mo,Curse One
+437,Pagmamahal Sayo,Curse One
+438,Nagmahal Ako Ng Bakla,Dagtang Lason
+439,Hulog Ng Langit,Donna Cruz
+440,Walang Iba,Ezra
+441,I Will,Ezra
+442,Kanlungan,Erick Santos
+443,Everytime,Frencheska Farr
+444,Suddenly Its Magic,Frencheska Farr
+445,Minsan Pa,Faith Cuneta
+446,Kaleidoscope World,Francis Magalona
+447,Lando,Gloc9
+448,Bahala Na,Gloc9
+449,Martilyo,Gloc9
+450,Tao,Gloc9
+451,The Bobo Song,Gloc9
+452,Tinta,Gloc9
+453,Eddie Ako,Gloc9
+454,Kabet,Gaggong Rapper
+455,One Hello,Gary Valenciano
+456,Tayong Dalawa,Gary Valenciano
+457,Warrior Is A Child,Gary Valenciano
+458,Take Me Out Of The Dark,Gary Valenciano
+459,Nandito,General Luna
+460,Aso't Pusa,Hale
+461,Bulalakaw,Hale
+462,Kalesa,Hale
+463,I Love You Goodby,Juris Fernandez
+464,I Dont Want To Fall,Juris Fernandez
+465,Opposite Attract,Juriz Fernandez
+466,Kung Malaya Lang Ako,Kris Lawrence
+467,When I See You Smile,Kris Lawrence
+468,Thank You,Kris Lawrence
+469,Sunddly,Kris Lawrence
+470,Paano,Kris Lawrence
+471,How Can I Fall,Kris Lawrence
+472,Bakit,Kyla
+473,I Dont Want You To Go,Kyla
+474,Kasiping Ka,La Diva
+475,Bakit Kung Sino Pa,Lloyd Umali
+476,Baby Now That I Found You,MYMP
+477,Beauty And Madness,MYMP
+478,I'll Never Get Over You,MYMP
+479,Kailan,MYMP
+480,Game Of Love,MYMP
+481,Friend Of Mine,MYMP
+482,Di Ako Bakla,Michael V.
+483,Kung Kailangan Mo Bato,Michael V.
+484,Mas Tanga Ko Sayo,Michael V.
+485,My B.O Na Ako,Michael V.
+486,May Isa Kumagat,Michael V.
+487,Multo,Michael V.
+488,Sabog Sabog Tayo,Michael V.
+489,Binta,Repablikan
+490,Aking Pagmamahal,Repablikan
+491,Kahit Di Na Tayo,Repablikan
+492,Luha (Rap),Repablikan
+493,First Love (Rap),Repablikan
+494,Kung Kailangan Mo Ako,Rey Valera
+495,Come Closer,Rico Blanco
+496,Start Again,Rico Blanco
+497,Your Universe,Rico Blanco
+498,Makakaasa Ka,Rivermaya
+499,Kung Ayaw Mo Wag Mo,Rivermaya
+500,Liwanag Sa Dilim,Rivermaya
+501,Hinahanap Hanap Kita,Rivermaya
+502,Saranghae,Sabrina
+503,Only You,Sam Milby
+504,And I Love You So,Sam Milby
+505,A Very Special Love,Sarah Geronimo
+506,You Change My Life,Sarah Geronimo
+507,Something You My Life,Sarah Geronimo
+508,Dahil Minahal Mo Ako,Sarah Geronimo
+509,Sa Iyo,Sarah Geronimo
+510,Record Breaker,Sarah Geronimo
+511,Can This Be Love,Sarah Geronimo
+512,All This Time,Six Part Invention
+513,Only For You,Six Part Invention
+514,Makita Kang Muli,Sugarfree
+515,Crazy For You,Spongecola
+516,Jeepney,Spongecola
+517,Puso,Spongecola
+518,Sa Bingit Ng Isang Paalam,Spongecola
+519,All We Need,Spongecola
+520,Closer You And I,Spongecola
+521,Movie,Spongecola
+522,Saan Ang Barkada,Spongecola
+523,Makapiling Ka,Spongecola
+524,Kasama Kang Tumanda,Toni Gonzaga
+525,Kasalanan Ko Ba,Toni Gonzaga
+526,Alert The Armony,Urbandub
+527,First Of Summer,Urbandub
+528,Don Romantiko,Vhong Navarro
+529,Hari Ng Dance Floor,Vhong Navarro
+530,Center Of The Sun,Wolfgang
+531,Natutulog Kong Mundo,Wolfgang
+532,Mula Sa Kamandag,Wolfgang
+533,Mata Ng Diyos,Wolfgang
+534,As Oceans,Wolfgang
+535,Cas Of Clowns,Wolfgang
+536,Kahit Na,X-Crew
+537,Sa Piling Mo,X-Crew
+538,Nagsusumamo,X-Crew
+539,Tama Na,X-Crew
+540,Please Tell Me,X-Crew
+541,Walang Hanggan,Yeng Constantino
+542,Baliw,Kiss Jane
+543,Bumuhos Man Ang Ulan,Jericho Rosales
+544,Malayo Pa Ang Umaga,Aria Clemente
+545,Patuloy Ang Pangarap,Angeline Quinto
+546,Umaasa Lang Sayo,Six Part Invention
+547,Ligaw,Ney Dimaculangan
+548,Wag Mo Akong Iwanan Mag-Isa,Angeline Quinto
+549,Charing,1017
+550,Ito Ang Gusto Ko,Francis Magalona
+551,Siya Na Nga Kaya,Julie Ann San Jose
+552,Aking Mundo,Julie Ann San Jose
+553,Pusong Lito,Kim Chiu
+554,Peng You,Kim Chiu
+555,Crazy Love,Kim Chiu
+556,Kering Keri,Kim Chiu
+557,Tell I Meet You,Kuh Ledesma
+558,Ngaun Bukas At Kahapon,Wency Cornejo
+559,Hanggang,Wency Cornejo
+600,How Can I Tell You,Wency Cornejo
