@@ -44,21 +44,14 @@ class GameFactory:
 
     def create(self, mode: str, room: str, points: int, limit: int) -> Game:
         m = mode.casefold().replace('-', '').replace('_', '').replace(' ', '')
-        if m in {'math','addition'}:
-            return self.math(room, points, limit)
-        if m in {'mathminus','subtraction'}:
-            return self.mathminus(room, points, limit)
-        if m in {'mathmultiply','multiplication'}:
-            return self.mathmultiply(room, points, limit)
-        if m in {'algebra1','algebra2','algebra3'}:
-            return self.algebra(m, room, points, limit)
+        if m in {'math','addition'}: return self.math(room, points, limit)
+        if m in {'mathminus','subtraction'}: return self.mathminus(room, points, limit)
+        if m in {'mathmultiply','multiplication'}: return self.mathmultiply(room, points, limit)
+        if m in {'algebra1','algebra2','algebra3'}: return self.algebra(m, room, points, limit)
         mapping = {
-            'trivia': ('Zgen-info.txt', 'General Trivia'),
-            'gentrivia': ('Zgen-info.txt', 'General Trivia'),
-            'anime': ('Zanime-trivia.txt', 'Anime Trivia'),
-            'animetrivia': ('Zanime-trivia.txt', 'Anime Trivia'),
-            'gtaforeign': ('Zgta-foreign.txt', 'GTA Foreign'),
-            'gtaopm': ('Zgta-opm.txt', 'GTA OPM'),
+            'trivia': ('Zgen-info.txt', 'General Trivia'), 'gentrivia': ('Zgen-info.txt', 'General Trivia'),
+            'anime': ('Zanime-trivia.txt', 'Anime Trivia'), 'animetrivia': ('Zanime-trivia.txt', 'Anime Trivia'),
+            'gtaforeign': ('Zgta-foreign.txt', 'GTA Foreign'), 'gtaopm': ('Zgta-opm.txt', 'GTA OPM'),
             'logic': ('Zlogic.txt', 'Logic/Rebus'),
         }
         if m in mapping:
@@ -68,7 +61,7 @@ class GameFactory:
         if m in {'tagalog','tagalogwordhunt'}: return self.wordhunt(room, points, limit, True)
         if m in {'twist','texttwist'}: return self.twist(room, points, limit)
         if m in {'random','random1','random2','random3','random4'}: return self.random_game(m, room, points, limit)
-        if m in {'randomgta'}: return self.random_gta(room, points, limit)
+        if m == 'randomgta': return self.random_gta(room, points, limit)
         raise ValueError(f'Unknown game: {mode}')
 
     def math(self, room, points, limit):
@@ -82,21 +75,17 @@ class GameFactory:
         return Game('Math Multiply', room, points, limit, mode='mathmultiply', current=QA(str(random.random()), f'{a} × {b} = ?', str(a*b)))
     def algebra(self, mode, room, points, limit):
         a,b,x = random.randint(1,12), random.randint(1,12), random.randint(1,20)
-        if mode == 'algebra1':
-            q=f'{a}x + {b} = {a*x+b}  → x = ?'; ans=str(x)
-        elif mode == 'algebra2':
-            q=f'{a}x - {b} = {a*x-b}  → x = ?'; ans=str(x)
-        else:
-            q=f'{a} × x × {b} = {a*x*b}  → x = ?'; ans=str(x)
-        return Game(mode.title(), room, points, limit, mode=mode, current=QA(str(random.random()), q, ans))
+        if mode == 'algebra1': q=f'{a}x + {b} = {a*x+b}  → x = ?'
+        elif mode == 'algebra2': q=f'{a}x - {b} = {a*x-b}  → x = ?'
+        else: q=f'{a} × x × {b} = {a*x*b}  → x = ?'
+        return Game(mode.title(), room, points, limit, mode=mode, current=QA(str(random.random()), q, str(x)))
     def wordhunt(self, room, points, limit, tagalog):
-        words=self.data.words('salita.txt' if tagalog else 'words.txt')
-        w=random.choice(words).word.upper()
+        words=self.data.words('salita.txt' if tagalog else 'words.txt'); w=random.choice(words).word.upper()
         letters=' '.join(random.sample(list(w), len(w)))
         return Game('Tagalog Wordhunt' if tagalog else 'Wordhunt', room, points, limit, mode='tagalog' if tagalog else 'wordhunt', current=QA(str(random.random()), f'Unscramble: {letters}', w))
     def twist(self, room, points, limit):
-        words=self.data.words('words.txt'); w=random.choice([x.word.upper() for x in words if 4 <= len(x.word) <= 8])
-        letters=' '.join(random.sample(list(w), len(w)))
+        words=self.data.words('words.txt'); candidates=[x.word.upper() for x in words if 4 <= len(x.word) <= 8]
+        w=random.choice(candidates); letters=' '.join(random.sample(list(w), len(w)))
         return Game('Text Twist', room, points, limit, mode='twist', current=QA(str(random.random()), f'TWIST: {letters}', w))
     def random_game(self, mode, room, points, limit):
         pools={
@@ -106,9 +95,12 @@ class GameFactory:
             'random3':['math','mathminus','mathmultiply','algebra1','algebra2','algebra3','trivia','anime','gtaopm','gtaforeign','logic','wordhunt','tagalog','twist'],
             'random4':['math','algebra1','trivia','anime','gtaopm','logic','twist'],
         }
-        return self.create(random.choice(pools.get(mode, pools['random'])), room, points, limit)
+        selected=random.choice(pools.get(mode,pools['random']))
+        g=self.create(selected,room,points,limit)
+        g.metadata['random_mode']=mode
+        return g
     def random_gta(self, room, points, limit):
-        return self.create(random.choice(['gtaopm','gtaforeign']), room, points, limit)
+        g=self.create(random.choice(['gtaopm','gtaforeign']),room,points,limit); g.metadata['random_mode']='randomgta'; return g
 
 def answer_matches(guess: str, answer: str) -> bool:
     a,b=normalize_answer(guess),normalize_answer(answer)
