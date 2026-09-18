@@ -1,10 +1,10 @@
 from __future__ import annotations
-import asyncio, random
+import asyncio
 from collections import defaultdict
 from .config import Config
 from .data import DataBank
 from .games import GameFactory, Game, answer_matches
-from .formatting import color, render_question, normalize_answer
+from .formatting import color, render_question
 
 HELP = '''[c03]uzzapbot game commands
 [c12]!game start <game> [limit] — admin only
@@ -37,8 +37,9 @@ class GameManager:
         async with self.locks[room]:
             if room in self.sessions and self.sessions[room].started:
                 await self.send(room, color(8,'A game is already running. Use !game stop first.')); return
-            try: g=self.factory.create(mode, room, self.config.default_points, limit)
-            except Exception as e:
+            try:
+                g=self.factory.create(mode, room, self.config.default_points, limit)
+            except Exception:
                 await self.send(room, color(8,f'Unknown game: {mode}. Use !game help.')); return
             self.sessions[room]=g
             await self.send(room, f'{color(3,"GAME START")} {color(12,g.name)} — {color(7,str(g.points))} points, target {color(7,str(g.limit))}.')
@@ -48,6 +49,7 @@ class GameManager:
         if not g.current:
             await self.send(g.room, color(8,'No more questions are available. Game ended.'))
             g.started=False; return
+        g.answered=False
         await self.send(g.room, render_question(g.current.question))
 
     async def stop(self,room):
@@ -59,19 +61,18 @@ class GameManager:
             else: await self.send(room,color(7,'Game stopped. No scores yet.'))
 
     async def next_question(self,g:Game):
-        mode=g.mode
-        if mode.startswith('random'):
-            # Start another random round while preserving player scores.
-            new=self.factory.create(mode,g.room,g.points,g.limit)
+        random_mode=g.metadata.get('random_mode')
+        if random_mode:
+            new=self.factory.create(random_mode,g.room,g.points,g.limit)
             new.players=g.players
             self.sessions[g.room]=new
             await self.post_question(new); return
+        mode=g.mode
         if mode in {'math','mathminus','mathmultiply','algebra1','algebra2','algebra3'}:
             new=self.factory.create(mode,g.room,g.points,g.limit); new.players=g.players; new.used=g.used
             self.sessions[g.room]=new; await self.post_question(new); return
         pool=g.metadata.get('pool',[])
         g.current=self.factory.data.question(pool,g.used) if pool else self.factory.create(mode,g.room,g.points,g.limit).current
-        g.answered=False
         await self.post_question(g)
 
     async def handle_answer(self,msg:dict,g:Game):
@@ -86,20 +87,16 @@ class GameManager:
         await self.send(g.room,f'{color(3,"✓ CORRECT")} {color(12,p.name)} +{g.points}  {color(7,"Score:")} {p.score}')
         if p.score >= g.limit:
             await self.send(g.room,f'{color(3,"🏆 WINNER")} {color(12,p.name)} reached {g.limit} points!')
-            g.started=False
-            return
+            g.started=False; return
         await asyncio.sleep(0.8)
         if g.started and self.sessions.get(g.room) is g: await self.next_question(g)
 
     async def command(self,msg:dict):
         room=str(msg.get('room_name') or '')
-        if not room: return
-        body=str(msg.get('body') or '').strip()
-        low=body.casefold()
+        if not room: return False
+        body=str(msg.get('body') or '').strip(); low=body.casefold()
         if not low.startswith('!game'): return False
-        args=body.split()
-        cmd=args[1].casefold() if len(args)>1 else 'help'
-        admin=self.is_admin(msg)
+        args=body.split(); cmd=args[1].casefold() if len(args)>1 else 'help'; admin=self.is_admin(msg)
         if cmd in {'help','?'}: await self.send(room,HELP); return True
         if cmd=='start':
             if not admin: await self.send(room,color(8,'Game start is admin-only during testing.')); return True
