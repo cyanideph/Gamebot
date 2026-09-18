@@ -14,7 +14,9 @@ async def main() -> None:
     await store.connect()
     last=await store.latest_id()
     log.info('Connected. Starting after room_messages id=%s', last)
-    manager=GameManager(cfg,store,Path(__file__).resolve().parent.parent)
+    # main.py is repo/uzzapbot/bot/main.py; datasets live in the repository root.
+    data_root=Path(__file__).resolve().parents[2]
+    manager=GameManager(cfg,store,data_root)
     while True:
         try:
             messages=await store.poll_messages(last)
